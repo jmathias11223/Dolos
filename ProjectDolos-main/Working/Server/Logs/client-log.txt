@@ -1,0 +1,1896 @@
+[2021-06-30 20:01:00] Connection Opened (port 10000)
+[2021-06-30 20:03:32]	Connected: Socket[addr=/216.106.142.65,port=56977,localport=10000]
+[2021-06-30 20:04:50]	Connected: Socket[addr=/216.106.142.65,port=61471,localport=10000]
+[2021-06-30 20:06:24]	Connected: Socket[addr=/216.106.142.65,port=49216,localport=10000]
+[2021-06-30 20:08:58]	Connected: Socket[addr=/216.106.142.65,port=65218,localport=10000]
+[2021-06-30 20:09:59]	Connected: Socket[addr=/216.106.142.65,port=65225,localport=10000]
+[2021-06-30 20:09:59]		Socket sent invalid key
+[2021-06-30 20:09:59]	Closed: Socket[addr=/216.106.142.65,port=65225,localport=10000]
+[2021-06-30 20:26:48] Connection Closed
+----------------------------------------
+[2021-06-30 20:26:59] Connection Opened (port 10000)
+[2021-06-30 20:28:10] Connection Closed
+----------------------------------------
+[2021-06-30 20:28:25] Connection Opened (port 10000)
+[2021-06-30 20:29:26] Connection Closed
+----------------------------------------
+[2021-06-30 20:29:35] Connection Opened (port 10000)
+[2021-06-30 20:38:01]	Connected: Socket[addr=/216.106.142.65,port=54745,localport=10000]
+[2021-06-30 20:38:01]		Key Accepted
+[2021-06-30 20:38:02]		Commands sent
+[2021-06-30 20:38:02]		Results received
+[2021-06-30 20:38:02]		Results received
+[2021-06-30 20:38:04]		Results received
+[2021-06-30 20:38:04]	Closed: Socket[addr=/216.106.142.65,port=54745,localport=10000]
+[2021-06-30 20:38:14]	Connected: Socket[addr=/216.106.142.65,port=54747,localport=10000]
+[2021-06-30 20:38:14]		Key Accepted
+[2021-06-30 20:38:14]		No commands to send
+[2021-06-30 20:38:14]	Closed: Socket[addr=/216.106.142.65,port=54747,localport=10000]
+[2021-06-30 20:38:24]	Connected: Socket[addr=/216.106.142.65,port=54750,localport=10000]
+[2021-06-30 20:38:25]		Key Accepted
+[2021-06-30 20:38:25]		No commands to send
+[2021-06-30 20:38:25]	Closed: Socket[addr=/216.106.142.65,port=54750,localport=10000]
+[2021-06-30 20:38:35]	Connected: Socket[addr=/216.106.142.65,port=54758,localport=10000]
+[2021-06-30 20:38:35]		Key Accepted
+[2021-06-30 20:38:35]		No commands to send
+[2021-06-30 20:38:35]	Closed: Socket[addr=/216.106.142.65,port=54758,localport=10000]
+[2021-06-30 20:38:45]	Connected: Socket[addr=/216.106.142.65,port=60234,localport=10000]
+[2021-06-30 20:38:45]		Key Accepted
+[2021-06-30 20:38:45]		No commands to send
+[2021-06-30 20:38:45]	Closed: Socket[addr=/216.106.142.65,port=60234,localport=10000]
+[2021-06-30 20:38:55]	Connected: Socket[addr=/216.106.142.65,port=60236,localport=10000]
+[2021-06-30 20:38:55]		Key Accepted
+[2021-06-30 20:38:55]		No commands to send
+[2021-06-30 20:38:55]	Closed: Socket[addr=/216.106.142.65,port=60236,localport=10000]
+[2021-06-30 20:39:06]	Connected: Socket[addr=/216.106.142.65,port=58782,localport=10000]
+[2021-06-30 20:39:06]		Key Accepted
+[2021-06-30 20:39:06]		No commands to send
+[2021-06-30 20:39:06]	Closed: Socket[addr=/216.106.142.65,port=58782,localport=10000]
+[2021-06-30 20:39:16]	Connected: Socket[addr=/216.106.142.65,port=58990,localport=10000]
+[2021-06-30 20:39:16]		Key Accepted
+[2021-06-30 20:39:16]		No commands to send
+[2021-06-30 20:39:16]	Closed: Socket[addr=/216.106.142.65,port=58990,localport=10000]
+[2021-06-30 20:39:26]	Connected: Socket[addr=/216.106.142.65,port=58992,localport=10000]
+[2021-06-30 20:39:26]		Key Accepted
+[2021-06-30 20:39:26]		No commands to send
+[2021-06-30 20:39:26]	Closed: Socket[addr=/216.106.142.65,port=58992,localport=10000]
+[2021-06-30 20:39:36]	Connected: Socket[addr=/216.106.142.65,port=58993,localport=10000]
+[2021-06-30 20:39:36]		Key Accepted
+[2021-06-30 20:39:37]		No commands to send
+[2021-06-30 20:39:37]	Closed: Socket[addr=/216.106.142.65,port=58993,localport=10000]
+[2021-06-30 20:39:47]	Connected: Socket[addr=/216.106.142.65,port=58995,localport=10000]
+[2021-06-30 20:39:47]		Key Accepted
+[2021-06-30 20:39:47]		No commands to send
+[2021-06-30 20:39:47]	Closed: Socket[addr=/216.106.142.65,port=58995,localport=10000]
+[2021-06-30 20:39:57]	Connected: Socket[addr=/216.106.142.65,port=59019,localport=10000]
+[2021-06-30 20:39:57]		Key Accepted
+[2021-06-30 20:39:57]		No commands to send
+[2021-06-30 20:39:57]	Closed: Socket[addr=/216.106.142.65,port=59019,localport=10000]
+[2021-06-30 20:40:07]	Connected: Socket[addr=/216.106.142.65,port=59023,localport=10000]
+[2021-06-30 20:40:07]		Key Accepted
+[2021-06-30 20:40:07]		No commands to send
+[2021-06-30 20:40:07]	Closed: Socket[addr=/216.106.142.65,port=59023,localport=10000]
+[2021-06-30 20:40:17]	Connected: Socket[addr=/216.106.142.65,port=57375,localport=10000]
+[2021-06-30 20:40:17]		Key Accepted
+[2021-06-30 20:40:18]		No commands to send
+[2021-06-30 20:40:18]	Closed: Socket[addr=/216.106.142.65,port=57375,localport=10000]
+[2021-06-30 20:40:28]	Connected: Socket[addr=/216.106.142.65,port=51037,localport=10000]
+[2021-06-30 20:40:28]		Key Accepted
+[2021-06-30 20:40:28]		No commands to send
+[2021-06-30 20:40:28]	Closed: Socket[addr=/216.106.142.65,port=51037,localport=10000]
+[2021-06-30 20:40:38]	Connected: Socket[addr=/216.106.142.65,port=51039,localport=10000]
+[2021-06-30 20:40:38]		Key Accepted
+[2021-06-30 20:40:38]		No commands to send
+[2021-06-30 20:40:38]	Closed: Socket[addr=/216.106.142.65,port=51039,localport=10000]
+[2021-06-30 20:40:48]	Connected: Socket[addr=/216.106.142.65,port=58996,localport=10000]
+[2021-06-30 20:40:48]		Key Accepted
+[2021-06-30 20:40:48]		No commands to send
+[2021-06-30 20:40:48]	Closed: Socket[addr=/216.106.142.65,port=58996,localport=10000]
+[2021-06-30 20:40:58]	Connected: Socket[addr=/216.106.142.65,port=59005,localport=10000]
+[2021-06-30 20:40:59]		Key Accepted
+[2021-06-30 20:40:59]		No commands to send
+[2021-06-30 20:40:59]	Closed: Socket[addr=/216.106.142.65,port=59005,localport=10000]
+[2021-06-30 20:41:09]	Connected: Socket[addr=/216.106.142.65,port=59011,localport=10000]
+[2021-06-30 20:41:09]		Key Accepted
+[2021-06-30 20:41:09]		No commands to send
+[2021-06-30 20:41:09]	Closed: Socket[addr=/216.106.142.65,port=59011,localport=10000]
+[2021-06-30 20:41:19]	Connected: Socket[addr=/216.106.142.65,port=59013,localport=10000]
+[2021-06-30 20:41:19]		Key Accepted
+[2021-06-30 20:41:19]		No commands to send
+[2021-06-30 20:41:19]	Closed: Socket[addr=/216.106.142.65,port=59013,localport=10000]
+[2021-06-30 20:41:29]	Connected: Socket[addr=/216.106.142.65,port=59021,localport=10000]
+[2021-06-30 20:41:29]		Key Accepted
+[2021-06-30 20:41:29]		No commands to send
+[2021-06-30 20:41:29]	Closed: Socket[addr=/216.106.142.65,port=59021,localport=10000]
+[2021-06-30 20:41:39]	Connected: Socket[addr=/216.106.142.65,port=59023,localport=10000]
+[2021-06-30 20:41:40]		Key Accepted
+[2021-06-30 20:41:40]		No commands to send
+[2021-06-30 20:41:40]	Closed: Socket[addr=/216.106.142.65,port=59023,localport=10000]
+[2021-06-30 20:44:22]	Connected: Socket[addr=/216.106.142.65,port=50976,localport=10000]
+[2021-06-30 20:44:23]		Key Accepted
+[2021-06-30 20:44:23]		No commands to send
+[2021-06-30 20:44:23]	Closed: Socket[addr=/216.106.142.65,port=50976,localport=10000]
+[2021-06-30 20:45:23]	Connected: Socket[addr=/216.106.142.65,port=64117,localport=10000]
+[2021-06-30 20:45:23]		Key Accepted
+[2021-06-30 20:45:23]		No commands to send
+[2021-06-30 20:45:23]	Closed: Socket[addr=/216.106.142.65,port=64117,localport=10000]
+[2021-06-30 20:46:23]	Connected: Socket[addr=/216.106.142.65,port=60519,localport=10000]
+[2021-06-30 20:46:23]		Key Accepted
+[2021-06-30 20:46:23]		No commands to send
+[2021-06-30 20:46:23]	Closed: Socket[addr=/216.106.142.65,port=60519,localport=10000]
+[2021-06-30 20:47:23]	Connected: Socket[addr=/216.106.142.65,port=54659,localport=10000]
+[2021-06-30 20:47:23]		Key Accepted
+[2021-06-30 20:47:23]		No commands to send
+[2021-06-30 20:47:23]	Closed: Socket[addr=/216.106.142.65,port=54659,localport=10000]
+[2021-06-30 20:48:23]	Connected: Socket[addr=/216.106.142.65,port=54665,localport=10000]
+[2021-06-30 20:48:24]		Key Accepted
+[2021-06-30 20:48:24]		No commands to send
+[2021-06-30 20:48:24]	Closed: Socket[addr=/216.106.142.65,port=54665,localport=10000]
+[2021-06-30 20:49:24]	Connected: Socket[addr=/216.106.142.65,port=59055,localport=10000]
+[2021-06-30 20:49:24]		Key Accepted
+[2021-06-30 20:49:24]		No commands to send
+[2021-06-30 20:49:24]	Closed: Socket[addr=/216.106.142.65,port=59055,localport=10000]
+[2021-06-30 20:50:24]	Connected: Socket[addr=/216.106.142.65,port=59065,localport=10000]
+[2021-06-30 20:50:24]		Key Accepted
+[2021-06-30 20:50:24]		No commands to send
+[2021-06-30 20:50:24]	Closed: Socket[addr=/216.106.142.65,port=59065,localport=10000]
+[2021-06-30 20:51:24]	Connected: Socket[addr=/216.106.142.65,port=60022,localport=10000]
+[2021-06-30 20:51:24]		Key Accepted
+[2021-06-30 20:51:24]		No commands to send
+[2021-06-30 20:51:24]	Closed: Socket[addr=/216.106.142.65,port=60022,localport=10000]
+[2021-06-30 20:52:24]	Connected: Socket[addr=/216.106.142.65,port=49322,localport=10000]
+[2021-06-30 20:52:25]		Key Accepted
+[2021-06-30 20:52:25]		No commands to send
+[2021-06-30 20:52:25]	Closed: Socket[addr=/216.106.142.65,port=49322,localport=10000]
+[2021-06-30 20:53:25]	Connected: Socket[addr=/216.106.142.65,port=59422,localport=10000]
+[2021-06-30 20:53:25]		Key Accepted
+[2021-06-30 20:53:25]		No commands to send
+[2021-06-30 20:53:25]	Closed: Socket[addr=/216.106.142.65,port=59422,localport=10000]
+[2021-06-30 20:54:08] Connection Closed
+----------------------------------------
+[2021-07-01 13:58:23] Connection Opened (port 10000)
+[2021-07-01 13:58:41] Connection Closed
+----------------------------------------
+[2021-07-01 14:03:52] Connection Opened (port 10000)
+[2021-07-01 14:06:22] Connection Closed
+----------------------------------------
+[2021-07-01 14:06:35] Connection Opened (port 10000)
+[2021-07-01 14:06:57] Connection Closed
+----------------------------------------
+[2021-07-01 14:15:06] Connection Opened (port 10000)
+[2021-07-01 14:44:44]	Connected: Socket[addr=/216.106.142.65,port=61557,localport=10000]
+[2021-07-01 14:44:45]		Key Accepted
+[2021-07-01 14:44:45]		No commands to send
+[2021-07-01 14:44:45]	Closed: Socket[addr=/216.106.142.65,port=61557,localport=10000]
+[2021-07-01 14:45:28]	Connected: Socket[addr=/216.106.142.65,port=61582,localport=10000]
+[2021-07-01 14:45:28]		Socket sent invalid key
+[2021-07-01 14:45:28]	Closed: Socket[addr=/216.106.142.65,port=61582,localport=10000]
+[2021-07-01 14:45:49]	Connected: Socket[addr=/216.106.142.65,port=61594,localport=10000]
+[2021-07-01 14:45:49]		Key Accepted
+[2021-07-01 14:45:49]		No commands to send
+[2021-07-01 14:45:49]	Closed: Socket[addr=/216.106.142.65,port=61594,localport=10000]
+[2021-07-01 14:56:31]	Connected: Socket[addr=/216.106.142.65,port=63010,localport=10000]
+[2021-07-01 14:56:31]		Key Accepted
+[2021-07-01 14:56:31]		Commands sent
+[2021-07-01 14:56:32]		Results received
+[2021-07-01 14:56:32]		Results received
+[2021-07-01 14:56:33]		Results received
+[2021-07-01 14:56:33]	Closed: Socket[addr=/216.106.142.65,port=63010,localport=10000]
+[2021-07-01 14:57:05]	Connected: Socket[addr=/216.106.142.65,port=56239,localport=10000]
+[2021-07-01 14:57:05]		Key Accepted
+[2021-07-01 14:57:05]		No commands to send
+[2021-07-01 14:57:05]	Closed: Socket[addr=/216.106.142.65,port=56239,localport=10000]
+[2021-07-01 14:57:37]	Connected: Socket[addr=/216.106.142.65,port=56257,localport=10000]
+[2021-07-01 14:57:37]		Key Accepted
+[2021-07-01 14:57:37]		No commands to send
+[2021-07-01 14:57:37]	Closed: Socket[addr=/216.106.142.65,port=56257,localport=10000]
+[2021-07-01 14:58:09]	Connected: Socket[addr=/216.106.142.65,port=56279,localport=10000]
+[2021-07-01 14:58:09]		Key Accepted
+[2021-07-01 14:58:09]		No commands to send
+[2021-07-01 14:58:09]	Closed: Socket[addr=/216.106.142.65,port=56279,localport=10000]
+[2021-07-01 14:58:42]	Connected: Socket[addr=/216.106.142.65,port=56297,localport=10000]
+[2021-07-01 14:58:42]		Key Accepted
+[2021-07-01 14:58:42]		No commands to send
+[2021-07-01 14:58:42]	Closed: Socket[addr=/216.106.142.65,port=56297,localport=10000]
+[2021-07-01 14:59:14]	Connected: Socket[addr=/216.106.142.65,port=53328,localport=10000]
+[2021-07-01 14:59:14]		Key Accepted
+[2021-07-01 14:59:14]		No commands to send
+[2021-07-01 14:59:14]	Closed: Socket[addr=/216.106.142.65,port=53328,localport=10000]
+[2021-07-01 14:59:46]	Connected: Socket[addr=/216.106.142.65,port=64311,localport=10000]
+[2021-07-01 14:59:46]		Key Accepted
+[2021-07-01 14:59:46]		No commands to send
+[2021-07-01 14:59:46]	Closed: Socket[addr=/216.106.142.65,port=64311,localport=10000]
+[2021-07-01 15:00:18]	Connected: Socket[addr=/216.106.142.65,port=50474,localport=10000]
+[2021-07-01 15:00:19]		Key Accepted
+[2021-07-01 15:00:19]		No commands to send
+[2021-07-01 15:00:19]	Closed: Socket[addr=/216.106.142.65,port=50474,localport=10000]
+[2021-07-01 15:00:51]	Connected: Socket[addr=/216.106.142.65,port=56188,localport=10000]
+[2021-07-01 15:00:51]		Key Accepted
+[2021-07-01 15:00:51]		No commands to send
+[2021-07-01 15:00:51]	Closed: Socket[addr=/216.106.142.65,port=56188,localport=10000]
+[2021-07-01 15:01:23]	Connected: Socket[addr=/216.106.142.65,port=49239,localport=10000]
+[2021-07-01 15:01:23]		Key Accepted
+[2021-07-01 15:01:23]		No commands to send
+[2021-07-01 15:01:23]	Closed: Socket[addr=/216.106.142.65,port=49239,localport=10000]
+[2021-07-01 15:01:55]	Connected: Socket[addr=/216.106.142.65,port=49259,localport=10000]
+[2021-07-01 15:01:55]		Key Accepted
+[2021-07-01 15:01:56]		No commands to send
+[2021-07-01 15:01:56]	Closed: Socket[addr=/216.106.142.65,port=49259,localport=10000]
+[2021-07-01 15:02:28]	Connected: Socket[addr=/216.106.142.65,port=49277,localport=10000]
+[2021-07-01 15:02:28]		Key Accepted
+[2021-07-01 15:02:28]		No commands to send
+[2021-07-01 15:02:28]	Closed: Socket[addr=/216.106.142.65,port=49277,localport=10000]
+[2021-07-01 15:03:00]	Connected: Socket[addr=/216.106.142.65,port=61380,localport=10000]
+[2021-07-01 15:03:00]		Key Accepted
+[2021-07-01 15:03:00]		No commands to send
+[2021-07-01 15:03:00]	Closed: Socket[addr=/216.106.142.65,port=61380,localport=10000]
+[2021-07-01 15:03:32]	Connected: Socket[addr=/216.106.142.65,port=61401,localport=10000]
+[2021-07-01 15:03:32]		Key Accepted
+[2021-07-01 15:03:32]		No commands to send
+[2021-07-01 15:03:32]	Closed: Socket[addr=/216.106.142.65,port=61401,localport=10000]
+[2021-07-01 15:04:04]	Connected: Socket[addr=/216.106.142.65,port=58979,localport=10000]
+[2021-07-01 15:04:04]		Key Accepted
+[2021-07-01 15:04:05]		No commands to send
+[2021-07-01 15:04:05]	Closed: Socket[addr=/216.106.142.65,port=58979,localport=10000]
+[2021-07-01 15:04:37]	Connected: Socket[addr=/216.106.142.65,port=58999,localport=10000]
+[2021-07-01 15:04:37]		Key Accepted
+[2021-07-01 15:04:37]		No commands to send
+[2021-07-01 15:04:37]	Closed: Socket[addr=/216.106.142.65,port=58999,localport=10000]
+[2021-07-01 15:05:09]	Connected: Socket[addr=/216.106.142.65,port=65202,localport=10000]
+[2021-07-01 15:05:09]		Key Accepted
+[2021-07-01 15:05:09]		No commands to send
+[2021-07-01 15:05:09]	Closed: Socket[addr=/216.106.142.65,port=65202,localport=10000]
+[2021-07-01 15:05:41]	Connected: Socket[addr=/216.106.142.65,port=65234,localport=10000]
+[2021-07-01 15:05:41]		Key Accepted
+[2021-07-01 15:05:41]		No commands to send
+[2021-07-01 15:05:41]	Closed: Socket[addr=/216.106.142.65,port=65234,localport=10000]
+[2021-07-01 15:06:13]	Connected: Socket[addr=/216.106.142.65,port=65254,localport=10000]
+[2021-07-01 15:06:14]		Key Accepted
+[2021-07-01 15:06:14]		No commands to send
+[2021-07-01 15:06:14]	Closed: Socket[addr=/216.106.142.65,port=65254,localport=10000]
+[2021-07-01 15:06:46]	Connected: Socket[addr=/216.106.142.65,port=65272,localport=10000]
+[2021-07-01 15:06:46]		Key Accepted
+[2021-07-01 15:06:46]		No commands to send
+[2021-07-01 15:06:46]	Closed: Socket[addr=/216.106.142.65,port=65272,localport=10000]
+[2021-07-01 15:07:18]	Connected: Socket[addr=/216.106.142.65,port=54632,localport=10000]
+[2021-07-01 15:07:18]		Key Accepted
+[2021-07-01 15:07:18]		No commands to send
+[2021-07-01 15:07:18]	Closed: Socket[addr=/216.106.142.65,port=54632,localport=10000]
+[2021-07-01 15:07:50]	Connected: Socket[addr=/216.106.142.65,port=54650,localport=10000]
+[2021-07-01 15:07:50]		Key Accepted
+[2021-07-01 15:07:50]		No commands to send
+[2021-07-01 15:07:50]	Closed: Socket[addr=/216.106.142.65,port=54650,localport=10000]
+[2021-07-01 15:08:22]	Connected: Socket[addr=/216.106.142.65,port=54670,localport=10000]
+[2021-07-01 15:08:23]		Key Accepted
+[2021-07-01 15:08:23]		No commands to send
+[2021-07-01 15:08:23]	Closed: Socket[addr=/216.106.142.65,port=54670,localport=10000]
+[2021-07-01 15:08:55]	Connected: Socket[addr=/216.106.142.65,port=55716,localport=10000]
+[2021-07-01 15:08:55]		Key Accepted
+[2021-07-01 15:08:55]		No commands to send
+[2021-07-01 15:08:55]	Closed: Socket[addr=/216.106.142.65,port=55716,localport=10000]
+[2021-07-01 15:09:27]	Connected: Socket[addr=/216.106.142.65,port=64446,localport=10000]
+[2021-07-01 15:09:27]		Key Accepted
+[2021-07-01 15:09:27]		No commands to send
+[2021-07-01 15:09:27]	Closed: Socket[addr=/216.106.142.65,port=64446,localport=10000]
+[2021-07-01 15:09:59]	Connected: Socket[addr=/216.106.142.65,port=52095,localport=10000]
+[2021-07-01 15:09:59]		Key Accepted
+[2021-07-01 15:09:59]		Commands sent
+[2021-07-01 15:10:00]		Results received
+[2021-07-01 15:10:00]		Results received
+[2021-07-01 15:10:00]		Results received
+[2021-07-01 15:10:00]	Closed: Socket[addr=/216.106.142.65,port=52095,localport=10000]
+[2021-07-01 15:10:10]	Connected: Socket[addr=/216.106.142.65,port=50510,localport=10000]
+[2021-07-01 15:10:10]		Key Accepted
+[2021-07-01 15:10:10]		No commands to send
+[2021-07-01 15:10:10]	Closed: Socket[addr=/216.106.142.65,port=50510,localport=10000]
+[2021-07-01 15:10:20]	Connected: Socket[addr=/216.106.142.65,port=50517,localport=10000]
+[2021-07-01 15:10:20]		Key Accepted
+[2021-07-01 15:10:21]		No commands to send
+[2021-07-01 15:10:21]	Closed: Socket[addr=/216.106.142.65,port=50517,localport=10000]
+[2021-07-01 15:10:31]	Connected: Socket[addr=/216.106.142.65,port=50526,localport=10000]
+[2021-07-01 15:10:31]		Key Accepted
+[2021-07-01 15:10:31]		Commands sent
+[2021-07-01 15:10:31]		Results received
+[2021-07-01 15:10:31]		Results received
+[2021-07-01 15:10:31]	Closed: Socket[addr=/216.106.142.65,port=50526,localport=10000]
+[2021-07-01 15:11:31]	Connected: Socket[addr=/216.106.142.65,port=49265,localport=10000]
+[2021-07-01 15:11:31]		Key Accepted
+[2021-07-01 15:11:32]		No commands to send
+[2021-07-01 15:11:32]	Closed: Socket[addr=/216.106.142.65,port=49265,localport=10000]
+[2021-07-01 15:12:32]	Connected: Socket[addr=/216.106.142.65,port=63466,localport=10000]
+[2021-07-01 15:12:32]		Key Accepted
+[2021-07-01 15:12:32]		No commands to send
+[2021-07-01 15:12:32]	Closed: Socket[addr=/216.106.142.65,port=63466,localport=10000]
+[2021-07-01 15:13:32]	Connected: Socket[addr=/216.106.142.65,port=62781,localport=10000]
+[2021-07-01 15:13:32]		Key Accepted
+[2021-07-01 15:13:32]		No commands to send
+[2021-07-01 15:13:32]	Closed: Socket[addr=/216.106.142.65,port=62781,localport=10000]
+[2021-07-01 15:14:32]	Connected: Socket[addr=/216.106.142.65,port=50986,localport=10000]
+[2021-07-01 15:14:32]		Key Accepted
+[2021-07-01 15:14:32]		No commands to send
+[2021-07-01 15:14:32]	Closed: Socket[addr=/216.106.142.65,port=50986,localport=10000]
+[2021-07-01 15:15:32]	Connected: Socket[addr=/216.106.142.65,port=62021,localport=10000]
+[2021-07-01 15:15:32]		Key Accepted
+[2021-07-01 15:15:33]		No commands to send
+[2021-07-01 15:15:33]	Closed: Socket[addr=/216.106.142.65,port=62021,localport=10000]
+[2021-07-01 15:16:33]	Connected: Socket[addr=/216.106.142.65,port=49336,localport=10000]
+[2021-07-01 15:16:33]		Key Accepted
+[2021-07-01 15:16:33]		No commands to send
+[2021-07-01 15:16:33]	Closed: Socket[addr=/216.106.142.65,port=49336,localport=10000]
+[2021-07-01 15:17:33]	Connected: Socket[addr=/216.106.142.65,port=49383,localport=10000]
+[2021-07-01 15:17:33]		Key Accepted
+[2021-07-01 15:17:33]		No commands to send
+[2021-07-01 15:17:33]	Closed: Socket[addr=/216.106.142.65,port=49383,localport=10000]
+[2021-07-01 15:18:33]	Connected: Socket[addr=/216.106.142.65,port=49415,localport=10000]
+[2021-07-01 15:18:33]		Key Accepted
+[2021-07-01 15:18:33]		No commands to send
+[2021-07-01 15:18:33]	Closed: Socket[addr=/216.106.142.65,port=49415,localport=10000]
+[2021-07-01 15:19:33]	Connected: Socket[addr=/216.106.142.65,port=53238,localport=10000]
+[2021-07-01 15:19:33]		Key Accepted
+[2021-07-01 15:19:34]		No commands to send
+[2021-07-01 15:19:34]	Closed: Socket[addr=/216.106.142.65,port=53238,localport=10000]
+[2021-07-01 15:20:34]	Connected: Socket[addr=/216.106.142.65,port=53272,localport=10000]
+[2021-07-01 15:20:34]		Key Accepted
+[2021-07-01 15:20:34]		No commands to send
+[2021-07-01 15:20:34]	Closed: Socket[addr=/216.106.142.65,port=53272,localport=10000]
+[2021-07-01 15:21:34]	Connected: Socket[addr=/216.106.142.65,port=49889,localport=10000]
+[2021-07-01 15:21:34]		Key Accepted
+[2021-07-01 15:21:34]		No commands to send
+[2021-07-01 15:21:34]	Closed: Socket[addr=/216.106.142.65,port=49889,localport=10000]
+[2021-07-01 15:22:34]	Connected: Socket[addr=/216.106.142.65,port=65266,localport=10000]
+[2021-07-01 15:22:34]		Key Accepted
+[2021-07-01 15:22:34]		No commands to send
+[2021-07-01 15:22:34]	Closed: Socket[addr=/216.106.142.65,port=65266,localport=10000]
+[2021-07-01 15:23:34]	Connected: Socket[addr=/216.106.142.65,port=55356,localport=10000]
+[2021-07-01 15:23:34]		Key Accepted
+[2021-07-01 15:23:35]		No commands to send
+[2021-07-01 15:23:35]	Closed: Socket[addr=/216.106.142.65,port=55356,localport=10000]
+[2021-07-01 15:24:35]	Connected: Socket[addr=/216.106.142.65,port=57138,localport=10000]
+[2021-07-01 15:24:35]		Key Accepted
+[2021-07-01 15:24:35]		Commands sent
+[2021-07-01 15:24:35]		Results received
+[2021-07-01 15:24:35]		Results received
+[2021-07-01 15:24:35]	Closed: Socket[addr=/216.106.142.65,port=57138,localport=10000]
+[2021-07-01 15:34:35]	Connected: Socket[addr=/216.106.142.65,port=49419,localport=10000]
+[2021-07-01 15:34:35]		Key Accepted
+[2021-07-01 15:34:36]		No commands to send
+[2021-07-01 15:34:36]	Closed: Socket[addr=/216.106.142.65,port=49419,localport=10000]
+[2021-07-01 15:44:36]	Connected: Socket[addr=/216.106.142.65,port=61412,localport=10000]
+[2021-07-01 15:44:36]		Key Accepted
+[2021-07-01 15:44:36]		No commands to send
+[2021-07-01 15:44:36]	Closed: Socket[addr=/216.106.142.65,port=61412,localport=10000]
+[2021-07-01 15:54:36]	Connected: Socket[addr=/216.106.142.65,port=64498,localport=10000]
+[2021-07-01 15:54:36]		Key Accepted
+[2021-07-01 15:54:36]		No commands to send
+[2021-07-01 15:54:36]	Closed: Socket[addr=/216.106.142.65,port=64498,localport=10000]
+[2021-07-01 16:04:36]	Connected: Socket[addr=/216.106.142.65,port=58399,localport=10000]
+[2021-07-01 16:04:36]		Key Accepted
+[2021-07-01 16:04:36]		No commands to send
+[2021-07-01 16:04:36]	Closed: Socket[addr=/216.106.142.65,port=58399,localport=10000]
+[2021-07-01 16:14:37]	Connected: Socket[addr=/216.106.142.65,port=54339,localport=10000]
+[2021-07-01 16:14:37]		Key Accepted
+[2021-07-01 16:14:37]		No commands to send
+[2021-07-01 16:14:37]	Closed: Socket[addr=/216.106.142.65,port=54339,localport=10000]
+[2021-07-01 16:24:37]	Connected: Socket[addr=/216.106.142.65,port=65148,localport=10000]
+[2021-07-01 16:24:37]		Key Accepted
+[2021-07-01 16:24:37]		No commands to send
+[2021-07-01 16:24:37]	Closed: Socket[addr=/216.106.142.65,port=65148,localport=10000]
+[2021-07-01 16:34:37]	Connected: Socket[addr=/216.106.142.65,port=54416,localport=10000]
+[2021-07-01 16:34:37]		Key Accepted
+[2021-07-01 16:34:37]		No commands to send
+[2021-07-01 16:34:37]	Closed: Socket[addr=/216.106.142.65,port=54416,localport=10000]
+[2021-07-01 16:44:38]	Connected: Socket[addr=/216.106.142.65,port=57009,localport=10000]
+[2021-07-01 16:44:38]		Key Accepted
+[2021-07-01 16:44:38]		No commands to send
+[2021-07-01 16:44:38]	Closed: Socket[addr=/216.106.142.65,port=57009,localport=10000]
+[2021-07-01 16:54:38]	Connected: Socket[addr=/216.106.142.65,port=60830,localport=10000]
+[2021-07-01 16:54:38]		Key Accepted
+[2021-07-01 16:54:38]		No commands to send
+[2021-07-01 16:54:38]	Closed: Socket[addr=/216.106.142.65,port=60830,localport=10000]
+[2021-07-01 17:04:38]	Connected: Socket[addr=/216.106.142.65,port=61237,localport=10000]
+[2021-07-01 17:04:38]		Key Accepted
+[2021-07-01 17:04:38]		No commands to send
+[2021-07-01 17:04:38]	Closed: Socket[addr=/216.106.142.65,port=61237,localport=10000]
+[2021-07-01 17:14:39]	Connected: Socket[addr=/216.106.142.65,port=65019,localport=10000]
+[2021-07-01 17:14:39]		Key Accepted
+[2021-07-01 17:14:39]		No commands to send
+[2021-07-01 17:14:39]	Closed: Socket[addr=/216.106.142.65,port=65019,localport=10000]
+[2021-07-01 17:24:39]	Connected: Socket[addr=/216.106.142.65,port=55363,localport=10000]
+[2021-07-01 17:24:39]		Key Accepted
+[2021-07-01 17:24:39]		No commands to send
+[2021-07-01 17:24:39]	Closed: Socket[addr=/216.106.142.65,port=55363,localport=10000]
+[2021-07-01 17:34:39]	Connected: Socket[addr=/216.106.142.65,port=59732,localport=10000]
+[2021-07-01 17:34:39]		Key Accepted
+[2021-07-01 17:34:39]		No commands to send
+[2021-07-01 17:34:39]	Closed: Socket[addr=/216.106.142.65,port=59732,localport=10000]
+[2021-07-01 17:44:39]	Connected: Socket[addr=/216.106.142.65,port=51799,localport=10000]
+[2021-07-01 17:44:39]		Key Accepted
+[2021-07-01 17:44:40]		No commands to send
+[2021-07-01 17:44:40]	Closed: Socket[addr=/216.106.142.65,port=51799,localport=10000]
+[2021-07-01 17:54:40]	Connected: Socket[addr=/216.106.142.65,port=51154,localport=10000]
+[2021-07-01 17:54:40]		Key Accepted
+[2021-07-01 17:54:40]		No commands to send
+[2021-07-01 17:54:40]	Closed: Socket[addr=/216.106.142.65,port=51154,localport=10000]
+[2021-07-01 18:04:40]	Connected: Socket[addr=/216.106.142.65,port=54740,localport=10000]
+[2021-07-01 18:04:40]		Key Accepted
+[2021-07-01 18:04:40]		No commands to send
+[2021-07-01 18:04:40]	Closed: Socket[addr=/216.106.142.65,port=54740,localport=10000]
+[2021-07-01 18:14:40]	Connected: Socket[addr=/216.106.142.65,port=61304,localport=10000]
+[2021-07-01 18:14:40]		Key Accepted
+[2021-07-01 18:14:40]		No commands to send
+[2021-07-01 18:14:40]	Closed: Socket[addr=/216.106.142.65,port=61304,localport=10000]
+[2021-07-01 18:24:41]	Connected: Socket[addr=/216.106.142.65,port=55846,localport=10000]
+[2021-07-01 18:24:41]		Key Accepted
+[2021-07-01 18:24:41]		No commands to send
+[2021-07-01 18:24:41]	Closed: Socket[addr=/216.106.142.65,port=55846,localport=10000]
+[2021-07-01 18:34:41]	Connected: Socket[addr=/216.106.142.65,port=57767,localport=10000]
+[2021-07-01 18:34:41]		Key Accepted
+[2021-07-01 18:34:41]		Commands sent
+[2021-07-01 18:34:41]		Results received
+[2021-07-01 18:34:41]	Closed: Socket[addr=/216.106.142.65,port=57767,localport=10000]
+[2021-07-01 18:44:42]	Connected: Socket[addr=/216.106.142.65,port=54700,localport=10000]
+[2021-07-01 18:44:42]		Key Accepted
+[2021-07-01 18:44:42]		No commands to send
+[2021-07-01 18:44:42]	Closed: Socket[addr=/216.106.142.65,port=54700,localport=10000]
+[2021-07-01 18:54:42]	Connected: Socket[addr=/216.106.142.65,port=49626,localport=10000]
+[2021-07-01 18:54:42]		Key Accepted
+[2021-07-01 18:54:42]		Commands sent
+[2021-07-01 18:54:42]		Results received
+[2021-07-01 18:54:42]	Closed: Socket[addr=/216.106.142.65,port=49626,localport=10000]
+[2021-07-01 19:04:43]	Connected: Socket[addr=/216.106.142.65,port=65071,localport=10000]
+[2021-07-01 19:04:43]		Key Accepted
+[2021-07-01 19:04:43]		No commands to send
+[2021-07-01 19:04:43]	Closed: Socket[addr=/216.106.142.65,port=65071,localport=10000]
+[2021-07-01 19:14:43]	Connected: Socket[addr=/216.106.142.65,port=60485,localport=10000]
+[2021-07-01 19:14:43]		Key Accepted
+[2021-07-01 19:14:43]		Commands sent
+[2021-07-01 19:14:43]		Results received
+[2021-07-01 19:14:43]	Closed: Socket[addr=/216.106.142.65,port=60485,localport=10000]
+[2021-07-01 19:24:43]	Connected: Socket[addr=/216.106.142.65,port=64847,localport=10000]
+[2021-07-01 19:24:44]		Key Accepted
+[2021-07-01 19:24:44]		Commands sent
+[2021-07-01 19:24:44]		Results received
+[2021-07-01 19:24:44]		Results received
+[2021-07-01 19:24:44]		Results received
+[2021-07-01 19:24:44]	Closed: Socket[addr=/216.106.142.65,port=64847,localport=10000]
+[2021-07-01 19:25:44]	Connected: Socket[addr=/216.106.142.65,port=61021,localport=10000]
+[2021-07-01 19:25:45]		Key Accepted
+[2021-07-01 19:25:45]		No commands to send
+[2021-07-01 19:25:45]	Closed: Socket[addr=/216.106.142.65,port=61021,localport=10000]
+[2021-07-01 19:26:45]	Connected: Socket[addr=/216.106.142.65,port=49868,localport=10000]
+[2021-07-01 19:26:45]		Key Accepted
+[2021-07-01 19:26:45]		No commands to send
+[2021-07-01 19:26:45]	Closed: Socket[addr=/216.106.142.65,port=49868,localport=10000]
+[2021-07-01 19:27:45]	Connected: Socket[addr=/216.106.142.65,port=62436,localport=10000]
+[2021-07-01 19:27:45]		Key Accepted
+[2021-07-01 19:27:45]		No commands to send
+[2021-07-01 19:27:45]	Closed: Socket[addr=/216.106.142.65,port=62436,localport=10000]
+[2021-07-01 19:28:45]	Connected: Socket[addr=/216.106.142.65,port=62472,localport=10000]
+[2021-07-01 19:28:45]		Key Accepted
+[2021-07-01 19:28:45]		No commands to send
+[2021-07-01 19:28:45]	Closed: Socket[addr=/216.106.142.65,port=62472,localport=10000]
+[2021-07-01 19:29:46]	Connected: Socket[addr=/216.106.142.65,port=62504,localport=10000]
+[2021-07-01 19:29:46]		Key Accepted
+[2021-07-01 19:29:46]		No commands to send
+[2021-07-01 19:29:46]	Closed: Socket[addr=/216.106.142.65,port=62504,localport=10000]
+[2021-07-01 19:30:46]	Connected: Socket[addr=/216.106.142.65,port=53149,localport=10000]
+[2021-07-01 19:30:46]		Key Accepted
+[2021-07-01 19:30:46]		No commands to send
+[2021-07-01 19:30:46]	Closed: Socket[addr=/216.106.142.65,port=53149,localport=10000]
+[2021-07-01 19:31:46]	Connected: Socket[addr=/216.106.142.65,port=59819,localport=10000]
+[2021-07-01 19:31:46]		Key Accepted
+[2021-07-01 19:31:46]		No commands to send
+[2021-07-01 19:31:46]	Closed: Socket[addr=/216.106.142.65,port=59819,localport=10000]
+[2021-07-01 19:32:46]	Connected: Socket[addr=/216.106.142.65,port=63426,localport=10000]
+[2021-07-01 19:32:46]		Key Accepted
+[2021-07-01 19:32:47]		No commands to send
+[2021-07-01 19:32:47]	Closed: Socket[addr=/216.106.142.65,port=63426,localport=10000]
+[2021-07-01 19:33:47]	Connected: Socket[addr=/216.106.142.65,port=55704,localport=10000]
+[2021-07-01 19:33:47]		Key Accepted
+[2021-07-01 19:33:47]		No commands to send
+[2021-07-01 19:33:47]	Closed: Socket[addr=/216.106.142.65,port=55704,localport=10000]
+[2021-07-01 19:34:47]	Connected: Socket[addr=/216.106.142.65,port=64347,localport=10000]
+[2021-07-01 19:34:47]		Key Accepted
+[2021-07-01 19:34:47]		No commands to send
+[2021-07-01 19:34:47]	Closed: Socket[addr=/216.106.142.65,port=64347,localport=10000]
+[2021-07-01 19:35:47]	Connected: Socket[addr=/216.106.142.65,port=58325,localport=10000]
+[2021-07-01 19:35:47]		Key Accepted
+[2021-07-01 19:35:47]		No commands to send
+[2021-07-01 19:35:47]	Closed: Socket[addr=/216.106.142.65,port=58325,localport=10000]
+[2021-07-01 19:36:47]	Connected: Socket[addr=/216.106.142.65,port=54869,localport=10000]
+[2021-07-01 19:36:48]		Key Accepted
+[2021-07-01 19:36:48]		No commands to send
+[2021-07-01 19:36:48]	Closed: Socket[addr=/216.106.142.65,port=54869,localport=10000]
+[2021-07-01 19:37:48]	Connected: Socket[addr=/216.106.142.65,port=57378,localport=10000]
+[2021-07-01 19:37:48]		Key Accepted
+[2021-07-01 19:37:48]		No commands to send
+[2021-07-01 19:37:48]	Closed: Socket[addr=/216.106.142.65,port=57378,localport=10000]
+[2021-07-01 19:38:48]	Connected: Socket[addr=/216.106.142.65,port=57410,localport=10000]
+[2021-07-01 19:38:48]		Key Accepted
+[2021-07-01 19:38:48]		No commands to send
+[2021-07-01 19:38:48]	Closed: Socket[addr=/216.106.142.65,port=57410,localport=10000]
+[2021-07-01 19:39:48]	Connected: Socket[addr=/216.106.142.65,port=50464,localport=10000]
+[2021-07-01 19:39:48]		Key Accepted
+[2021-07-01 19:39:48]		No commands to send
+[2021-07-01 19:39:48]	Closed: Socket[addr=/216.106.142.65,port=50464,localport=10000]
+[2021-07-01 19:40:49]	Connected: Socket[addr=/216.106.142.65,port=55548,localport=10000]
+[2021-07-01 19:40:49]		Key Accepted
+[2021-07-01 19:40:49]		No commands to send
+[2021-07-01 19:40:49]	Closed: Socket[addr=/216.106.142.65,port=55548,localport=10000]
+[2021-07-01 19:41:49]	Connected: Socket[addr=/216.106.142.65,port=52375,localport=10000]
+[2021-07-01 19:41:49]		Key Accepted
+[2021-07-01 19:41:49]		No commands to send
+[2021-07-01 19:41:49]	Closed: Socket[addr=/216.106.142.65,port=52375,localport=10000]
+[2021-07-01 19:42:49]	Connected: Socket[addr=/216.106.142.65,port=50281,localport=10000]
+[2021-07-01 19:42:49]		Key Accepted
+[2021-07-01 19:42:49]		No commands to send
+[2021-07-01 19:42:49]	Closed: Socket[addr=/216.106.142.65,port=50281,localport=10000]
+[2021-07-01 19:43:49]	Connected: Socket[addr=/216.106.142.65,port=64624,localport=10000]
+[2021-07-01 19:43:50]		Key Accepted
+[2021-07-01 19:43:50]		No commands to send
+[2021-07-01 19:43:50]	Closed: Socket[addr=/216.106.142.65,port=64624,localport=10000]
+[2021-07-01 19:44:50]	Connected: Socket[addr=/216.106.142.65,port=50062,localport=10000]
+[2021-07-01 19:44:50]		Key Accepted
+[2021-07-01 19:44:50]		No commands to send
+[2021-07-01 19:44:50]	Closed: Socket[addr=/216.106.142.65,port=50062,localport=10000]
+[2021-07-01 19:45:50]	Connected: Socket[addr=/216.106.142.65,port=51514,localport=10000]
+[2021-07-01 19:45:50]		Key Accepted
+[2021-07-01 19:45:50]		No commands to send
+[2021-07-01 19:45:50]	Closed: Socket[addr=/216.106.142.65,port=51514,localport=10000]
+[2021-07-01 19:46:50]	Connected: Socket[addr=/216.106.142.65,port=54806,localport=10000]
+[2021-07-01 19:46:50]		Key Accepted
+[2021-07-01 19:46:50]		No commands to send
+[2021-07-01 19:46:50]	Closed: Socket[addr=/216.106.142.65,port=54806,localport=10000]
+[2021-07-01 19:47:51]	Connected: Socket[addr=/216.106.142.65,port=52660,localport=10000]
+[2021-07-01 19:47:51]		Key Accepted
+[2021-07-01 19:47:51]		No commands to send
+[2021-07-01 19:47:51]	Closed: Socket[addr=/216.106.142.65,port=52660,localport=10000]
+[2021-07-01 19:48:51]	Connected: Socket[addr=/216.106.142.65,port=52693,localport=10000]
+[2021-07-01 19:48:51]		Key Accepted
+[2021-07-01 19:48:51]		No commands to send
+[2021-07-01 19:48:51]	Closed: Socket[addr=/216.106.142.65,port=52693,localport=10000]
+[2021-07-01 19:49:51]	Connected: Socket[addr=/216.106.142.65,port=52725,localport=10000]
+[2021-07-01 19:49:51]		Key Accepted
+[2021-07-01 19:49:51]		No commands to send
+[2021-07-01 19:49:51]	Closed: Socket[addr=/216.106.142.65,port=52725,localport=10000]
+[2021-07-01 19:50:51]	Connected: Socket[addr=/216.106.142.65,port=57219,localport=10000]
+[2021-07-01 19:50:51]		Key Accepted
+[2021-07-01 19:50:52]		No commands to send
+[2021-07-01 19:50:52]	Closed: Socket[addr=/216.106.142.65,port=57219,localport=10000]
+[2021-07-01 19:51:52]	Connected: Socket[addr=/216.106.142.65,port=60421,localport=10000]
+[2021-07-01 19:51:52]		Key Accepted
+[2021-07-01 19:51:52]		No commands to send
+[2021-07-01 19:51:52]	Closed: Socket[addr=/216.106.142.65,port=60421,localport=10000]
+[2021-07-01 19:52:52]	Connected: Socket[addr=/216.106.142.65,port=51136,localport=10000]
+[2021-07-01 19:52:52]		Key Accepted
+[2021-07-01 19:52:52]		No commands to send
+[2021-07-01 19:52:52]	Closed: Socket[addr=/216.106.142.65,port=51136,localport=10000]
+[2021-07-01 19:53:52]	Connected: Socket[addr=/216.106.142.65,port=64425,localport=10000]
+[2021-07-01 19:53:52]		Key Accepted
+[2021-07-01 19:53:52]		No commands to send
+[2021-07-01 19:53:52]	Closed: Socket[addr=/216.106.142.65,port=64425,localport=10000]
+[2021-07-01 19:54:52]	Connected: Socket[addr=/216.106.142.65,port=53768,localport=10000]
+[2021-07-01 19:54:53]		Key Accepted
+[2021-07-01 19:54:53]		No commands to send
+[2021-07-01 19:54:53]	Closed: Socket[addr=/216.106.142.65,port=53768,localport=10000]
+[2021-07-01 19:55:53]	Connected: Socket[addr=/216.106.142.65,port=51015,localport=10000]
+[2021-07-01 19:55:53]		Key Accepted
+[2021-07-01 19:55:53]		No commands to send
+[2021-07-01 19:55:53]	Closed: Socket[addr=/216.106.142.65,port=51015,localport=10000]
+[2021-07-01 19:56:53]	Connected: Socket[addr=/216.106.142.65,port=52520,localport=10000]
+[2021-07-01 19:56:53]		Key Accepted
+[2021-07-01 19:56:53]		No commands to send
+[2021-07-01 19:56:53]	Closed: Socket[addr=/216.106.142.65,port=52520,localport=10000]
+[2021-07-01 19:57:53]	Connected: Socket[addr=/216.106.142.65,port=58642,localport=10000]
+[2021-07-01 19:57:53]		Key Accepted
+[2021-07-01 19:57:53]		No commands to send
+[2021-07-01 19:57:53]	Closed: Socket[addr=/216.106.142.65,port=58642,localport=10000]
+[2021-07-01 19:58:54]	Connected: Socket[addr=/216.106.142.65,port=58685,localport=10000]
+[2021-07-01 19:58:54]		Key Accepted
+[2021-07-01 19:58:54]		No commands to send
+[2021-07-01 19:58:54]	Closed: Socket[addr=/216.106.142.65,port=58685,localport=10000]
+[2021-07-01 19:59:54]	Connected: Socket[addr=/216.106.142.65,port=49823,localport=10000]
+[2021-07-01 19:59:54]		Key Accepted
+[2021-07-01 19:59:54]		No commands to send
+[2021-07-01 19:59:54]	Closed: Socket[addr=/216.106.142.65,port=49823,localport=10000]
+[2021-07-01 20:00:54]	Connected: Socket[addr=/216.106.142.65,port=58471,localport=10000]
+[2021-07-01 20:00:54]		Key Accepted
+[2021-07-01 20:00:54]		No commands to send
+[2021-07-01 20:00:54]	Closed: Socket[addr=/216.106.142.65,port=58471,localport=10000]
+[2021-07-01 20:01:54]	Connected: Socket[addr=/216.106.142.65,port=57086,localport=10000]
+[2021-07-01 20:01:54]		Key Accepted
+[2021-07-01 20:01:55]		No commands to send
+[2021-07-01 20:01:55]	Closed: Socket[addr=/216.106.142.65,port=57086,localport=10000]
+[2021-07-01 20:02:55]	Connected: Socket[addr=/216.106.142.65,port=49493,localport=10000]
+[2021-07-01 20:02:55]		Key Accepted
+[2021-07-01 20:02:55]		No commands to send
+[2021-07-01 20:02:55]	Closed: Socket[addr=/216.106.142.65,port=49493,localport=10000]
+[2021-07-01 20:03:55]	Connected: Socket[addr=/216.106.142.65,port=54722,localport=10000]
+[2021-07-01 20:03:55]		Key Accepted
+[2021-07-01 20:03:55]		No commands to send
+[2021-07-01 20:03:55]	Closed: Socket[addr=/216.106.142.65,port=54722,localport=10000]
+[2021-07-01 20:04:55]	Connected: Socket[addr=/216.106.142.65,port=54756,localport=10000]
+[2021-07-01 20:04:55]		Key Accepted
+[2021-07-01 20:04:55]		No commands to send
+[2021-07-01 20:04:55]	Closed: Socket[addr=/216.106.142.65,port=54756,localport=10000]
+[2021-07-01 20:05:55]	Connected: Socket[addr=/216.106.142.65,port=53304,localport=10000]
+[2021-07-01 20:05:56]		Key Accepted
+[2021-07-01 20:05:56]		No commands to send
+[2021-07-01 20:05:56]	Closed: Socket[addr=/216.106.142.65,port=53304,localport=10000]
+[2021-07-01 20:06:56]	Connected: Socket[addr=/216.106.142.65,port=57723,localport=10000]
+[2021-07-01 20:06:56]		Key Accepted
+[2021-07-01 20:06:56]		No commands to send
+[2021-07-01 20:06:56]	Closed: Socket[addr=/216.106.142.65,port=57723,localport=10000]
+[2021-07-01 20:07:56]	Connected: Socket[addr=/216.106.142.65,port=64275,localport=10000]
+[2021-07-01 20:07:56]		Key Accepted
+[2021-07-01 20:07:56]		No commands to send
+[2021-07-01 20:07:56]	Closed: Socket[addr=/216.106.142.65,port=64275,localport=10000]
+[2021-07-01 20:08:56]	Connected: Socket[addr=/216.106.142.65,port=64313,localport=10000]
+[2021-07-01 20:08:56]		Key Accepted
+[2021-07-01 20:08:56]		No commands to send
+[2021-07-01 20:08:56]	Closed: Socket[addr=/216.106.142.65,port=64313,localport=10000]
+[2021-07-01 20:09:57]	Connected: Socket[addr=/216.106.142.65,port=56379,localport=10000]
+[2021-07-01 20:09:57]		Key Accepted
+[2021-07-01 20:09:57]		No commands to send
+[2021-07-01 20:09:57]	Closed: Socket[addr=/216.106.142.65,port=56379,localport=10000]
+[2021-07-01 20:10:57]	Connected: Socket[addr=/216.106.142.65,port=51564,localport=10000]
+[2021-07-01 20:10:57]		Key Accepted
+[2021-07-01 20:10:57]		No commands to send
+[2021-07-01 20:10:57]	Closed: Socket[addr=/216.106.142.65,port=51564,localport=10000]
+[2021-07-01 20:11:57]	Connected: Socket[addr=/216.106.142.65,port=64275,localport=10000]
+[2021-07-01 20:11:57]		Key Accepted
+[2021-07-01 20:11:57]		Commands sent
+[2021-07-01 20:11:58]		Results received
+[2021-07-01 20:11:58]		Results received
+[2021-07-01 20:11:58]		Results received
+[2021-07-01 20:11:58]		Results received
+[2021-07-01 20:11:58]	Closed: Socket[addr=/216.106.142.65,port=64275,localport=10000]
+[2021-07-01 20:12:28]	Connected: Socket[addr=/216.106.142.65,port=54786,localport=10000]
+[2021-07-01 20:12:28]		Key Accepted
+[2021-07-01 20:12:28]		No commands to send
+[2021-07-01 20:12:28]	Closed: Socket[addr=/216.106.142.65,port=54786,localport=10000]
+[2021-07-01 20:12:59]	Connected: Socket[addr=/216.106.142.65,port=63296,localport=10000]
+[2021-07-01 20:12:59]		Key Accepted
+[2021-07-01 20:12:59]		No commands to send
+[2021-07-01 20:12:59]	Closed: Socket[addr=/216.106.142.65,port=63296,localport=10000]
+[2021-07-01 20:13:29]	Connected: Socket[addr=/216.106.142.65,port=54222,localport=10000]
+[2021-07-01 20:13:29]		Key Accepted
+[2021-07-01 20:13:29]		No commands to send
+[2021-07-01 20:13:29]	Closed: Socket[addr=/216.106.142.65,port=54222,localport=10000]
+[2021-07-01 20:13:59]	Connected: Socket[addr=/216.106.142.65,port=53447,localport=10000]
+[2021-07-01 20:13:59]		Key Accepted
+[2021-07-01 20:13:59]		No commands to send
+[2021-07-01 20:13:59]	Closed: Socket[addr=/216.106.142.65,port=53447,localport=10000]
+[2021-07-01 20:14:29]	Connected: Socket[addr=/216.106.142.65,port=62676,localport=10000]
+[2021-07-01 20:14:29]		Key Accepted
+[2021-07-01 20:14:29]		No commands to send
+[2021-07-01 20:14:29]	Closed: Socket[addr=/216.106.142.65,port=62676,localport=10000]
+[2021-07-01 20:15:00]	Connected: Socket[addr=/216.106.142.65,port=53962,localport=10000]
+[2021-07-01 20:15:00]		Key Accepted
+[2021-07-01 20:15:00]		No commands to send
+[2021-07-01 20:15:00]	Closed: Socket[addr=/216.106.142.65,port=53962,localport=10000]
+[2021-07-01 20:15:30]	Connected: Socket[addr=/216.106.142.65,port=53979,localport=10000]
+[2021-07-01 20:15:30]		Key Accepted
+[2021-07-01 20:15:30]		No commands to send
+[2021-07-01 20:15:30]	Closed: Socket[addr=/216.106.142.65,port=53979,localport=10000]
+[2021-07-01 20:16:00]	Connected: Socket[addr=/216.106.142.65,port=54292,localport=10000]
+[2021-07-01 20:16:00]		Key Accepted
+[2021-07-01 20:16:00]		No commands to send
+[2021-07-01 20:16:00]	Closed: Socket[addr=/216.106.142.65,port=54292,localport=10000]
+[2021-07-01 20:16:30]	Connected: Socket[addr=/216.106.142.65,port=63746,localport=10000]
+[2021-07-01 20:16:30]		Key Accepted
+[2021-07-01 20:16:30]		No commands to send
+[2021-07-01 20:16:30]	Closed: Socket[addr=/216.106.142.65,port=63746,localport=10000]
+[2021-07-01 20:17:00]	Connected: Socket[addr=/216.106.142.65,port=49187,localport=10000]
+[2021-07-01 20:17:01]		Key Accepted
+[2021-07-01 20:17:01]		No commands to send
+[2021-07-01 20:17:01]	Closed: Socket[addr=/216.106.142.65,port=49187,localport=10000]
+[2021-07-01 20:17:31]	Connected: Socket[addr=/216.106.142.65,port=54685,localport=10000]
+[2021-07-01 20:17:31]		Key Accepted
+[2021-07-01 20:17:31]		No commands to send
+[2021-07-01 20:17:31]	Closed: Socket[addr=/216.106.142.65,port=54685,localport=10000]
+[2021-07-01 20:18:01]	Connected: Socket[addr=/216.106.142.65,port=54705,localport=10000]
+[2021-07-01 20:18:01]		Key Accepted
+[2021-07-01 20:18:01]		No commands to send
+[2021-07-01 20:18:01]	Closed: Socket[addr=/216.106.142.65,port=54705,localport=10000]
+[2021-07-01 20:18:31]	Connected: Socket[addr=/216.106.142.65,port=54723,localport=10000]
+[2021-07-01 20:18:31]		Key Accepted
+[2021-07-01 20:18:31]		No commands to send
+[2021-07-01 20:18:31]	Closed: Socket[addr=/216.106.142.65,port=54723,localport=10000]
+[2021-07-01 20:19:01]	Connected: Socket[addr=/216.106.142.65,port=54740,localport=10000]
+[2021-07-01 20:19:02]		Key Accepted
+[2021-07-01 20:19:02]		No commands to send
+[2021-07-01 20:19:02]	Closed: Socket[addr=/216.106.142.65,port=54740,localport=10000]
+[2021-07-01 20:19:32]	Connected: Socket[addr=/216.106.142.65,port=54757,localport=10000]
+[2021-07-01 20:19:32]		Key Accepted
+[2021-07-01 20:19:32]		No commands to send
+[2021-07-01 20:19:32]	Closed: Socket[addr=/216.106.142.65,port=54757,localport=10000]
+[2021-07-01 20:20:02]	Connected: Socket[addr=/216.106.142.65,port=63326,localport=10000]
+[2021-07-01 20:20:02]		Key Accepted
+[2021-07-01 20:20:02]		No commands to send
+[2021-07-01 20:20:02]	Closed: Socket[addr=/216.106.142.65,port=63326,localport=10000]
+[2021-07-01 20:20:32]	Connected: Socket[addr=/216.106.142.65,port=57650,localport=10000]
+[2021-07-01 20:20:32]		Key Accepted
+[2021-07-01 20:20:33]		No commands to send
+[2021-07-01 20:20:33]	Closed: Socket[addr=/216.106.142.65,port=57650,localport=10000]
+[2021-07-01 20:21:03]	Connected: Socket[addr=/216.106.142.65,port=51571,localport=10000]
+[2021-07-01 20:21:03]		Key Accepted
+[2021-07-01 20:21:03]		No commands to send
+[2021-07-01 20:21:03]	Closed: Socket[addr=/216.106.142.65,port=51571,localport=10000]
+[2021-07-01 20:21:33]	Connected: Socket[addr=/216.106.142.65,port=51590,localport=10000]
+[2021-07-01 20:21:33]		Key Accepted
+[2021-07-01 20:21:33]		No commands to send
+[2021-07-01 20:21:33]	Closed: Socket[addr=/216.106.142.65,port=51590,localport=10000]
+[2021-07-01 20:22:03]	Connected: Socket[addr=/216.106.142.65,port=56374,localport=10000]
+[2021-07-01 20:22:03]		Key Accepted
+[2021-07-01 20:22:03]		No commands to send
+[2021-07-01 20:22:03]	Closed: Socket[addr=/216.106.142.65,port=56374,localport=10000]
+[2021-07-01 20:22:33]	Connected: Socket[addr=/216.106.142.65,port=61594,localport=10000]
+[2021-07-01 20:22:33]		Key Accepted
+[2021-07-01 20:22:34]		No commands to send
+[2021-07-01 20:22:34]	Closed: Socket[addr=/216.106.142.65,port=61594,localport=10000]
+[2021-07-01 20:33:23] Connection Closed
+----------------------------------------
+[2021-07-02 17:20:21] Connection Opened (port 10000)
+[2021-07-02 17:28:27] Connection Opened (port 30000)
+[2021-07-02 17:28:46] Connection Closed
+----------------------------------------
+[2021-07-02 17:35:15] Connection Closed
+----------------------------------------
+[2021-07-02 17:35:30] Connection Opened (port 10000)
+[2021-07-02 18:56:07] Connection Closed
+----------------------------------------
+[2021-07-06 13:24:50] Connection Opened (port 10000)
+[2021-07-06 13:56:42]	Connected: Socket[addr=/216.106.142.65,port=61734,localport=10000]
+[2021-07-06 13:56:43]		Key Accepted
+[2021-07-06 13:56:44]		No commands to send
+[2021-07-06 13:56:44]	Closed: Socket[addr=/216.106.142.65,port=61734,localport=10000]
+[2021-07-06 14:04:12]	Connected: Socket[addr=/216.106.142.65,port=64413,localport=10000]
+[2021-07-06 14:04:12]		Key Accepted
+[2021-07-06 14:04:13]		No commands to send
+[2021-07-06 14:04:13]	Closed: Socket[addr=/216.106.142.65,port=64413,localport=10000]
+[2021-07-06 14:05:13]	Connected: Socket[addr=/216.106.142.65,port=54146,localport=10000]
+[2021-07-06 14:05:13]		Key Accepted
+[2021-07-06 14:05:13]		No commands to send
+[2021-07-06 14:05:13]	Closed: Socket[addr=/216.106.142.65,port=54146,localport=10000]
+[2021-07-06 14:06:13]	Connected: Socket[addr=/216.106.142.65,port=52061,localport=10000]
+[2021-07-06 14:06:13]		Key Accepted
+[2021-07-06 14:06:13]		No commands to send
+[2021-07-06 14:06:13]	Closed: Socket[addr=/216.106.142.65,port=52061,localport=10000]
+[2021-07-06 14:07:13]	Connected: Socket[addr=/216.106.142.65,port=63172,localport=10000]
+[2021-07-06 14:07:14]		Key Accepted
+[2021-07-06 14:07:14]		Commands sent
+[2021-07-06 14:07:14]		Results received
+[2021-07-06 14:07:15]		Results received
+[2021-07-06 14:07:15]		Results received
+[2021-07-06 14:07:15]		Results received
+[2021-07-06 14:07:15]	Closed: Socket[addr=/216.106.142.65,port=63172,localport=10000]
+[2021-07-06 14:07:30]	Connected: Socket[addr=/216.106.142.65,port=63174,localport=10000]
+[2021-07-06 14:07:31]		Key Accepted
+[2021-07-06 14:07:31]		No commands to send
+[2021-07-06 14:07:31]	Closed: Socket[addr=/216.106.142.65,port=63174,localport=10000]
+[2021-07-06 14:07:46]	Connected: Socket[addr=/216.106.142.65,port=63176,localport=10000]
+[2021-07-06 14:07:46]		Key Accepted
+[2021-07-06 14:07:46]		No commands to send
+[2021-07-06 14:07:46]	Closed: Socket[addr=/216.106.142.65,port=63176,localport=10000]
+[2021-07-06 14:08:01]	Connected: Socket[addr=/216.106.142.65,port=63178,localport=10000]
+[2021-07-06 14:08:01]		Key Accepted
+[2021-07-06 14:08:01]		No commands to send
+[2021-07-06 14:08:01]	Closed: Socket[addr=/216.106.142.65,port=63178,localport=10000]
+[2021-07-06 14:08:16]	Connected: Socket[addr=/216.106.142.65,port=52281,localport=10000]
+[2021-07-06 14:08:16]		Key Accepted
+[2021-07-06 14:08:16]		No commands to send
+[2021-07-06 14:08:16]	Closed: Socket[addr=/216.106.142.65,port=52281,localport=10000]
+[2021-07-06 14:08:31]	Connected: Socket[addr=/216.106.142.65,port=52283,localport=10000]
+[2021-07-06 14:08:32]		Key Accepted
+[2021-07-06 14:08:32]		No commands to send
+[2021-07-06 14:08:32]	Closed: Socket[addr=/216.106.142.65,port=52283,localport=10000]
+[2021-07-06 14:08:47]	Connected: Socket[addr=/216.106.142.65,port=52285,localport=10000]
+[2021-07-06 14:08:47]		Key Accepted
+[2021-07-06 14:08:47]		No commands to send
+[2021-07-06 14:08:47]	Closed: Socket[addr=/216.106.142.65,port=52285,localport=10000]
+[2021-07-06 14:09:02]	Connected: Socket[addr=/216.106.142.65,port=54213,localport=10000]
+[2021-07-06 14:09:02]		Key Accepted
+[2021-07-06 14:09:02]		No commands to send
+[2021-07-06 14:09:02]	Closed: Socket[addr=/216.106.142.65,port=54213,localport=10000]
+[2021-07-06 14:09:17]	Connected: Socket[addr=/216.106.142.65,port=54215,localport=10000]
+[2021-07-06 14:09:17]		Key Accepted
+[2021-07-06 14:09:17]		No commands to send
+[2021-07-06 14:09:17]	Closed: Socket[addr=/216.106.142.65,port=54215,localport=10000]
+[2021-07-06 14:15:09]	Connected: Socket[addr=/216.106.142.65,port=55630,localport=10000]
+[2021-07-06 14:15:09]		Key Accepted
+[2021-07-06 14:15:09]		No commands to send
+[2021-07-06 14:15:09]	Closed: Socket[addr=/216.106.142.65,port=55630,localport=10000]
+[2021-07-06 14:15:24]	Connected: Socket[addr=/216.106.142.65,port=55632,localport=10000]
+[2021-07-06 14:15:24]		Key Accepted
+[2021-07-06 14:15:25]		No commands to send
+[2021-07-06 14:15:25]	Closed: Socket[addr=/216.106.142.65,port=55632,localport=10000]
+[2021-07-06 14:15:40]	Connected: Socket[addr=/216.106.142.65,port=55635,localport=10000]
+[2021-07-06 14:15:40]		Key Accepted
+[2021-07-06 14:15:40]		No commands to send
+[2021-07-06 14:15:40]	Closed: Socket[addr=/216.106.142.65,port=55635,localport=10000]
+[2021-07-06 14:15:55]	Connected: Socket[addr=/216.106.142.65,port=60615,localport=10000]
+[2021-07-06 14:15:55]		Key Accepted
+[2021-07-06 14:15:55]		Commands sent
+[2021-07-06 14:15:55]		Results received
+[2021-07-06 14:15:56]		Results received
+[2021-07-06 14:15:56]		Results received
+[2021-07-06 14:15:56]		Results received
+[2021-07-06 14:15:56]	Closed: Socket[addr=/216.106.142.65,port=60615,localport=10000]
+[2021-07-06 14:16:06]	Connected: Socket[addr=/216.106.142.65,port=57669,localport=10000]
+[2021-07-06 14:16:06]		Key Accepted
+[2021-07-06 14:16:06]		No commands to send
+[2021-07-06 14:16:06]	Closed: Socket[addr=/216.106.142.65,port=57669,localport=10000]
+[2021-07-06 14:16:16]	Connected: Socket[addr=/216.106.142.65,port=57671,localport=10000]
+[2021-07-06 14:16:16]		Key Accepted
+[2021-07-06 14:16:17]		No commands to send
+[2021-07-06 14:16:17]	Closed: Socket[addr=/216.106.142.65,port=57671,localport=10000]
+[2021-07-06 14:16:27]	Connected: Socket[addr=/216.106.142.65,port=57672,localport=10000]
+[2021-07-06 14:16:27]		Key Accepted
+[2021-07-06 14:16:27]		No commands to send
+[2021-07-06 14:16:27]	Closed: Socket[addr=/216.106.142.65,port=57672,localport=10000]
+[2021-07-06 14:16:37]	Connected: Socket[addr=/216.106.142.65,port=57674,localport=10000]
+[2021-07-06 14:16:37]		Key Accepted
+[2021-07-06 14:16:37]		No commands to send
+[2021-07-06 14:16:37]	Closed: Socket[addr=/216.106.142.65,port=57674,localport=10000]
+[2021-07-06 14:16:47]	Connected: Socket[addr=/216.106.142.65,port=57675,localport=10000]
+[2021-07-06 14:16:47]		Key Accepted
+[2021-07-06 14:16:47]		No commands to send
+[2021-07-06 14:16:47]	Closed: Socket[addr=/216.106.142.65,port=57675,localport=10000]
+[2021-07-06 14:16:57]	Connected: Socket[addr=/216.106.142.65,port=57677,localport=10000]
+[2021-07-06 14:16:57]		Key Accepted
+[2021-07-06 14:16:57]		No commands to send
+[2021-07-06 14:16:57]	Closed: Socket[addr=/216.106.142.65,port=57677,localport=10000]
+[2021-07-06 14:17:08]	Connected: Socket[addr=/216.106.142.65,port=57678,localport=10000]
+[2021-07-06 14:17:08]		Key Accepted
+[2021-07-06 14:17:08]		No commands to send
+[2021-07-06 14:17:08]	Closed: Socket[addr=/216.106.142.65,port=57678,localport=10000]
+[2021-07-06 14:17:18]	Connected: Socket[addr=/216.106.142.65,port=57680,localport=10000]
+[2021-07-06 14:17:18]		Key Accepted
+[2021-07-06 14:17:18]		No commands to send
+[2021-07-06 14:17:18]	Closed: Socket[addr=/216.106.142.65,port=57680,localport=10000]
+[2021-07-06 14:17:28]	Connected: Socket[addr=/216.106.142.65,port=57681,localport=10000]
+[2021-07-06 14:17:28]		Key Accepted
+[2021-07-06 14:17:28]		No commands to send
+[2021-07-06 14:17:28]	Closed: Socket[addr=/216.106.142.65,port=57681,localport=10000]
+[2021-07-06 14:17:38]	Connected: Socket[addr=/216.106.142.65,port=57683,localport=10000]
+[2021-07-06 14:17:38]		Key Accepted
+[2021-07-06 14:17:38]		No commands to send
+[2021-07-06 14:17:38]	Closed: Socket[addr=/216.106.142.65,port=57683,localport=10000]
+[2021-07-06 14:17:48]	Connected: Socket[addr=/216.106.142.65,port=55580,localport=10000]
+[2021-07-06 14:17:49]		Key Accepted
+[2021-07-06 14:17:49]		No commands to send
+[2021-07-06 14:17:49]	Closed: Socket[addr=/216.106.142.65,port=55580,localport=10000]
+[2021-07-06 14:17:59]	Connected: Socket[addr=/216.106.142.65,port=54073,localport=10000]
+[2021-07-06 14:17:59]		Key Accepted
+[2021-07-06 14:17:59]		No commands to send
+[2021-07-06 14:17:59]	Closed: Socket[addr=/216.106.142.65,port=54073,localport=10000]
+[2021-07-06 14:18:09]	Connected: Socket[addr=/216.106.142.65,port=54074,localport=10000]
+[2021-07-06 14:18:09]		Key Accepted
+[2021-07-06 14:18:09]		No commands to send
+[2021-07-06 14:18:09]	Closed: Socket[addr=/216.106.142.65,port=54074,localport=10000]
+[2021-07-06 14:18:19]	Connected: Socket[addr=/216.106.142.65,port=55006,localport=10000]
+[2021-07-06 14:18:19]		Key Accepted
+[2021-07-06 14:18:19]		No commands to send
+[2021-07-06 14:18:19]	Closed: Socket[addr=/216.106.142.65,port=55006,localport=10000]
+[2021-07-06 14:18:29]	Connected: Socket[addr=/216.106.142.65,port=55007,localport=10000]
+[2021-07-06 14:18:29]		Key Accepted
+[2021-07-06 14:18:30]		No commands to send
+[2021-07-06 14:18:30]	Closed: Socket[addr=/216.106.142.65,port=55007,localport=10000]
+[2021-07-06 14:18:40]	Connected: Socket[addr=/216.106.142.65,port=55009,localport=10000]
+[2021-07-06 14:18:40]		Key Accepted
+[2021-07-06 14:18:40]		No commands to send
+[2021-07-06 14:18:40]	Closed: Socket[addr=/216.106.142.65,port=55009,localport=10000]
+[2021-07-06 14:18:50]	Connected: Socket[addr=/216.106.142.65,port=55010,localport=10000]
+[2021-07-06 14:18:50]		Key Accepted
+[2021-07-06 14:18:50]		No commands to send
+[2021-07-06 14:18:50]	Closed: Socket[addr=/216.106.142.65,port=55010,localport=10000]
+[2021-07-06 14:19:00]	Connected: Socket[addr=/216.106.142.65,port=53781,localport=10000]
+[2021-07-06 14:19:00]		Key Accepted
+[2021-07-06 14:19:00]		No commands to send
+[2021-07-06 14:19:00]	Closed: Socket[addr=/216.106.142.65,port=53781,localport=10000]
+[2021-07-06 14:19:10]	Connected: Socket[addr=/216.106.142.65,port=49401,localport=10000]
+[2021-07-06 14:19:10]		Key Accepted
+[2021-07-06 14:19:11]		No commands to send
+[2021-07-06 14:19:11]	Closed: Socket[addr=/216.106.142.65,port=49401,localport=10000]
+[2021-07-06 14:19:21]	Connected: Socket[addr=/216.106.142.65,port=61705,localport=10000]
+[2021-07-06 14:19:21]		Key Accepted
+[2021-07-06 14:19:21]		No commands to send
+[2021-07-06 14:19:21]	Closed: Socket[addr=/216.106.142.65,port=61705,localport=10000]
+[2021-07-06 14:19:31]	Connected: Socket[addr=/216.106.142.65,port=61706,localport=10000]
+[2021-07-06 14:19:31]		Key Accepted
+[2021-07-06 14:19:31]		No commands to send
+[2021-07-06 14:19:31]	Closed: Socket[addr=/216.106.142.65,port=61706,localport=10000]
+[2021-07-06 14:19:41]	Connected: Socket[addr=/216.106.142.65,port=61708,localport=10000]
+[2021-07-06 14:19:41]		Key Accepted
+[2021-07-06 14:19:41]		No commands to send
+[2021-07-06 14:19:41]	Closed: Socket[addr=/216.106.142.65,port=61708,localport=10000]
+[2021-07-06 14:19:51]	Connected: Socket[addr=/216.106.142.65,port=61494,localport=10000]
+[2021-07-06 14:19:51]		Key Accepted
+[2021-07-06 14:19:52]		No commands to send
+[2021-07-06 14:19:52]	Closed: Socket[addr=/216.106.142.65,port=61494,localport=10000]
+[2021-07-06 14:20:02]	Connected: Socket[addr=/216.106.142.65,port=58146,localport=10000]
+[2021-07-06 14:20:02]		Key Accepted
+[2021-07-06 14:20:02]		No commands to send
+[2021-07-06 14:20:02]	Closed: Socket[addr=/216.106.142.65,port=58146,localport=10000]
+[2021-07-06 14:20:12]	Connected: Socket[addr=/216.106.142.65,port=61436,localport=10000]
+[2021-07-06 14:20:12]		Key Accepted
+[2021-07-06 14:20:12]		No commands to send
+[2021-07-06 14:20:12]	Closed: Socket[addr=/216.106.142.65,port=61436,localport=10000]
+[2021-07-06 14:20:22]	Connected: Socket[addr=/216.106.142.65,port=53186,localport=10000]
+[2021-07-06 14:20:22]		Key Accepted
+[2021-07-06 14:20:22]		No commands to send
+[2021-07-06 14:20:22]	Closed: Socket[addr=/216.106.142.65,port=53186,localport=10000]
+[2021-07-06 14:20:32]	Connected: Socket[addr=/216.106.142.65,port=57620,localport=10000]
+[2021-07-06 14:20:32]		Key Accepted
+[2021-07-06 14:20:32]		No commands to send
+[2021-07-06 14:20:33]	Closed: Socket[addr=/216.106.142.65,port=57620,localport=10000]
+[2021-07-06 14:20:43]	Connected: Socket[addr=/216.106.142.65,port=57622,localport=10000]
+[2021-07-06 14:20:43]		Key Accepted
+[2021-07-06 14:20:43]		No commands to send
+[2021-07-06 14:20:43]	Closed: Socket[addr=/216.106.142.65,port=57622,localport=10000]
+[2021-07-06 14:20:53]	Connected: Socket[addr=/216.106.142.65,port=59623,localport=10000]
+[2021-07-06 14:20:53]		Key Accepted
+[2021-07-06 14:20:53]		No commands to send
+[2021-07-06 14:20:53]	Closed: Socket[addr=/216.106.142.65,port=59623,localport=10000]
+[2021-07-06 14:21:03]	Connected: Socket[addr=/216.106.142.65,port=62524,localport=10000]
+[2021-07-06 14:21:03]		Key Accepted
+[2021-07-06 14:21:03]		No commands to send
+[2021-07-06 14:21:03]	Closed: Socket[addr=/216.106.142.65,port=62524,localport=10000]
+[2021-07-06 14:21:13]	Connected: Socket[addr=/216.106.142.65,port=62525,localport=10000]
+[2021-07-06 14:21:13]		Key Accepted
+[2021-07-06 14:21:13]		No commands to send
+[2021-07-06 14:21:13]	Closed: Socket[addr=/216.106.142.65,port=62525,localport=10000]
+[2021-07-06 14:21:23]	Connected: Socket[addr=/216.106.142.65,port=60025,localport=10000]
+[2021-07-06 14:21:24]		Key Accepted
+[2021-07-06 14:21:24]		No commands to send
+[2021-07-06 14:21:24]	Closed: Socket[addr=/216.106.142.65,port=60025,localport=10000]
+[2021-07-06 14:21:34]	Connected: Socket[addr=/216.106.142.65,port=60026,localport=10000]
+[2021-07-06 14:21:34]		Key Accepted
+[2021-07-06 14:21:34]		No commands to send
+[2021-07-06 14:21:34]	Closed: Socket[addr=/216.106.142.65,port=60026,localport=10000]
+[2021-07-06 14:21:44]	Connected: Socket[addr=/216.106.142.65,port=60028,localport=10000]
+[2021-07-06 14:21:44]		Key Accepted
+[2021-07-06 14:21:44]		No commands to send
+[2021-07-06 14:21:44]	Closed: Socket[addr=/216.106.142.65,port=60028,localport=10000]
+[2021-07-06 14:21:54]	Connected: Socket[addr=/216.106.142.65,port=60029,localport=10000]
+[2021-07-06 14:21:54]		Key Accepted
+[2021-07-06 14:21:54]		No commands to send
+[2021-07-06 14:21:54]	Closed: Socket[addr=/216.106.142.65,port=60029,localport=10000]
+[2021-07-06 14:22:04]	Connected: Socket[addr=/216.106.142.65,port=49473,localport=10000]
+[2021-07-06 14:22:05]		Key Accepted
+[2021-07-06 14:22:05]		No commands to send
+[2021-07-06 14:22:05]	Closed: Socket[addr=/216.106.142.65,port=49473,localport=10000]
+[2021-07-06 14:22:15]	Connected: Socket[addr=/216.106.142.65,port=60451,localport=10000]
+[2021-07-06 14:22:15]		Key Accepted
+[2021-07-06 14:22:15]		No commands to send
+[2021-07-06 14:22:15]	Closed: Socket[addr=/216.106.142.65,port=60451,localport=10000]
+[2021-07-06 14:22:25]	Connected: Socket[addr=/216.106.142.65,port=60453,localport=10000]
+[2021-07-06 14:22:25]		Key Accepted
+[2021-07-06 14:22:25]		No commands to send
+[2021-07-06 14:22:25]	Closed: Socket[addr=/216.106.142.65,port=60453,localport=10000]
+[2021-07-06 14:22:35]	Connected: Socket[addr=/216.106.142.65,port=60454,localport=10000]
+[2021-07-06 14:22:35]		Key Accepted
+[2021-07-06 14:22:35]		No commands to send
+[2021-07-06 14:22:35]	Closed: Socket[addr=/216.106.142.65,port=60454,localport=10000]
+[2021-07-06 14:22:45]	Connected: Socket[addr=/216.106.142.65,port=60456,localport=10000]
+[2021-07-06 14:22:45]		Key Accepted
+[2021-07-06 14:22:46]		No commands to send
+[2021-07-06 14:22:46]	Closed: Socket[addr=/216.106.142.65,port=60456,localport=10000]
+[2021-07-06 14:22:56]	Connected: Socket[addr=/216.106.142.65,port=60457,localport=10000]
+[2021-07-06 14:22:56]		Key Accepted
+[2021-07-06 14:22:56]		No commands to send
+[2021-07-06 14:22:56]	Closed: Socket[addr=/216.106.142.65,port=60457,localport=10000]
+[2021-07-06 14:23:06]	Connected: Socket[addr=/216.106.142.65,port=60459,localport=10000]
+[2021-07-06 14:23:06]		Key Accepted
+[2021-07-06 14:23:06]		No commands to send
+[2021-07-06 14:23:06]	Closed: Socket[addr=/216.106.142.65,port=60459,localport=10000]
+[2021-07-06 14:23:16]	Connected: Socket[addr=/216.106.142.65,port=50555,localport=10000]
+[2021-07-06 14:23:16]		Key Accepted
+[2021-07-06 14:23:16]		No commands to send
+[2021-07-06 14:23:16]	Closed: Socket[addr=/216.106.142.65,port=50555,localport=10000]
+[2021-07-06 14:23:26]	Connected: Socket[addr=/216.106.142.65,port=50557,localport=10000]
+[2021-07-06 14:23:26]		Key Accepted
+[2021-07-06 14:23:26]		No commands to send
+[2021-07-06 14:23:26]	Closed: Socket[addr=/216.106.142.65,port=50557,localport=10000]
+[2021-07-06 14:23:37]	Connected: Socket[addr=/216.106.142.65,port=50558,localport=10000]
+[2021-07-06 14:23:37]		Key Accepted
+[2021-07-06 14:23:37]		No commands to send
+[2021-07-06 14:23:37]	Closed: Socket[addr=/216.106.142.65,port=50558,localport=10000]
+[2021-07-06 14:23:47]	Connected: Socket[addr=/216.106.142.65,port=50560,localport=10000]
+[2021-07-06 14:23:47]		Key Accepted
+[2021-07-06 14:23:47]		No commands to send
+[2021-07-06 14:23:47]	Closed: Socket[addr=/216.106.142.65,port=50560,localport=10000]
+[2021-07-06 14:23:57]	Connected: Socket[addr=/216.106.142.65,port=50567,localport=10000]
+[2021-07-06 14:23:57]		Key Accepted
+[2021-07-06 14:23:57]		No commands to send
+[2021-07-06 14:23:57]	Closed: Socket[addr=/216.106.142.65,port=50567,localport=10000]
+[2021-07-06 14:24:07]	Connected: Socket[addr=/216.106.142.65,port=54535,localport=10000]
+[2021-07-06 14:24:07]		Key Accepted
+[2021-07-06 14:24:07]		No commands to send
+[2021-07-06 14:24:07]	Closed: Socket[addr=/216.106.142.65,port=54535,localport=10000]
+[2021-07-06 14:24:17]	Connected: Socket[addr=/216.106.142.65,port=54536,localport=10000]
+[2021-07-06 14:24:18]		Key Accepted
+[2021-07-06 14:24:18]		No commands to send
+[2021-07-06 14:24:18]	Closed: Socket[addr=/216.106.142.65,port=54536,localport=10000]
+[2021-07-06 14:24:28]	Connected: Socket[addr=/216.106.142.65,port=54538,localport=10000]
+[2021-07-06 14:24:28]		Key Accepted
+[2021-07-06 14:24:28]		No commands to send
+[2021-07-06 14:24:28]	Closed: Socket[addr=/216.106.142.65,port=54538,localport=10000]
+[2021-07-06 14:24:38]	Connected: Socket[addr=/216.106.142.65,port=54539,localport=10000]
+[2021-07-06 14:24:38]		Key Accepted
+[2021-07-06 14:24:38]		No commands to send
+[2021-07-06 14:24:38]	Closed: Socket[addr=/216.106.142.65,port=54539,localport=10000]
+[2021-07-06 14:24:48]	Connected: Socket[addr=/216.106.142.65,port=54541,localport=10000]
+[2021-07-06 14:24:48]		Key Accepted
+[2021-07-06 14:24:48]		No commands to send
+[2021-07-06 14:24:48]	Closed: Socket[addr=/216.106.142.65,port=54541,localport=10000]
+[2021-07-06 14:24:58]	Connected: Socket[addr=/216.106.142.65,port=54542,localport=10000]
+[2021-07-06 14:24:58]		Key Accepted
+[2021-07-06 14:24:59]		No commands to send
+[2021-07-06 14:24:59]	Closed: Socket[addr=/216.106.142.65,port=54542,localport=10000]
+[2021-07-06 14:25:09]	Connected: Socket[addr=/216.106.142.65,port=54545,localport=10000]
+[2021-07-06 14:25:09]		Key Accepted
+[2021-07-06 14:25:09]		No commands to send
+[2021-07-06 14:25:09]	Closed: Socket[addr=/216.106.142.65,port=54545,localport=10000]
+[2021-07-06 14:25:19]	Connected: Socket[addr=/216.106.142.65,port=65021,localport=10000]
+[2021-07-06 14:25:19]		Key Accepted
+[2021-07-06 14:25:19]		No commands to send
+[2021-07-06 14:25:19]	Closed: Socket[addr=/216.106.142.65,port=65021,localport=10000]
+[2021-07-06 14:25:29]	Connected: Socket[addr=/216.106.142.65,port=65024,localport=10000]
+[2021-07-06 14:25:29]		Key Accepted
+[2021-07-06 14:25:29]		No commands to send
+[2021-07-06 14:25:29]	Closed: Socket[addr=/216.106.142.65,port=65024,localport=10000]
+[2021-07-06 14:25:39]	Connected: Socket[addr=/216.106.142.65,port=65026,localport=10000]
+[2021-07-06 14:25:39]		Key Accepted
+[2021-07-06 14:25:39]		No commands to send
+[2021-07-06 14:25:39]	Closed: Socket[addr=/216.106.142.65,port=65026,localport=10000]
+[2021-07-06 14:25:49]	Connected: Socket[addr=/216.106.142.65,port=65029,localport=10000]
+[2021-07-06 14:25:50]		Key Accepted
+[2021-07-06 14:25:50]		No commands to send
+[2021-07-06 14:25:50]	Closed: Socket[addr=/216.106.142.65,port=65029,localport=10000]
+[2021-07-06 14:26:00]	Connected: Socket[addr=/216.106.142.65,port=65031,localport=10000]
+[2021-07-06 14:26:00]		Key Accepted
+[2021-07-06 14:26:00]		No commands to send
+[2021-07-06 14:26:00]	Closed: Socket[addr=/216.106.142.65,port=65031,localport=10000]
+[2021-07-06 14:26:10]	Connected: Socket[addr=/216.106.142.65,port=65033,localport=10000]
+[2021-07-06 14:26:10]		Key Accepted
+[2021-07-06 14:26:10]		No commands to send
+[2021-07-06 14:26:10]	Closed: Socket[addr=/216.106.142.65,port=65033,localport=10000]
+[2021-07-06 14:26:20]	Connected: Socket[addr=/216.106.142.65,port=65034,localport=10000]
+[2021-07-06 14:26:20]		Key Accepted
+[2021-07-06 14:26:20]		No commands to send
+[2021-07-06 14:26:20]	Closed: Socket[addr=/216.106.142.65,port=65034,localport=10000]
+[2021-07-06 14:26:30]	Connected: Socket[addr=/216.106.142.65,port=65036,localport=10000]
+[2021-07-06 14:26:30]		Key Accepted
+[2021-07-06 14:26:31]		No commands to send
+[2021-07-06 14:26:31]	Closed: Socket[addr=/216.106.142.65,port=65036,localport=10000]
+[2021-07-06 14:26:41]	Connected: Socket[addr=/216.106.142.65,port=65037,localport=10000]
+[2021-07-06 14:26:41]		Key Accepted
+[2021-07-06 14:26:41]		No commands to send
+[2021-07-06 14:26:41]	Closed: Socket[addr=/216.106.142.65,port=65037,localport=10000]
+[2021-07-06 14:26:51]	Connected: Socket[addr=/216.106.142.65,port=65040,localport=10000]
+[2021-07-06 14:26:51]		Key Accepted
+[2021-07-06 14:26:51]		No commands to send
+[2021-07-06 14:26:51]	Closed: Socket[addr=/216.106.142.65,port=65040,localport=10000]
+[2021-07-06 14:27:01]	Connected: Socket[addr=/216.106.142.65,port=65042,localport=10000]
+[2021-07-06 14:27:01]		Key Accepted
+[2021-07-06 14:27:01]		No commands to send
+[2021-07-06 14:27:01]	Closed: Socket[addr=/216.106.142.65,port=65042,localport=10000]
+[2021-07-06 14:27:11]	Connected: Socket[addr=/216.106.142.65,port=65044,localport=10000]
+[2021-07-06 14:27:11]		Key Accepted
+[2021-07-06 14:27:12]		No commands to send
+[2021-07-06 14:27:12]	Closed: Socket[addr=/216.106.142.65,port=65044,localport=10000]
+[2021-07-06 14:27:22]	Connected: Socket[addr=/216.106.142.65,port=65045,localport=10000]
+[2021-07-06 14:27:22]		Key Accepted
+[2021-07-06 14:27:22]		No commands to send
+[2021-07-06 14:27:22]	Closed: Socket[addr=/216.106.142.65,port=65045,localport=10000]
+[2021-07-06 14:28:11]	Connected: Socket[addr=/216.106.142.65,port=51958,localport=10000]
+[2021-07-06 14:28:11]		Key Accepted
+[2021-07-06 14:28:11]		No commands to send
+[2021-07-06 14:28:11]	Closed: Socket[addr=/216.106.142.65,port=51958,localport=10000]
+[2021-07-06 14:28:21]	Connected: Socket[addr=/216.106.142.65,port=58221,localport=10000]
+[2021-07-06 14:28:21]		Key Accepted
+[2021-07-06 14:28:22]		No commands to send
+[2021-07-06 14:28:22]	Closed: Socket[addr=/216.106.142.65,port=58221,localport=10000]
+[2021-07-06 14:28:32]	Connected: Socket[addr=/216.106.142.65,port=58223,localport=10000]
+[2021-07-06 14:28:32]		Key Accepted
+[2021-07-06 14:28:32]		No commands to send
+[2021-07-06 14:28:32]	Closed: Socket[addr=/216.106.142.65,port=58223,localport=10000]
+[2021-07-06 14:28:42]	Connected: Socket[addr=/216.106.142.65,port=58224,localport=10000]
+[2021-07-06 14:28:42]		Key Accepted
+[2021-07-06 14:28:42]		No commands to send
+[2021-07-06 14:28:42]	Closed: Socket[addr=/216.106.142.65,port=58224,localport=10000]
+[2021-07-06 14:28:52]	Connected: Socket[addr=/216.106.142.65,port=52083,localport=10000]
+[2021-07-06 14:28:52]		Key Accepted
+[2021-07-06 14:28:52]		No commands to send
+[2021-07-06 14:28:52]	Closed: Socket[addr=/216.106.142.65,port=52083,localport=10000]
+[2021-07-06 14:29:02]	Connected: Socket[addr=/216.106.142.65,port=62658,localport=10000]
+[2021-07-06 14:29:02]		Key Accepted
+[2021-07-06 14:29:03]		Commands sent
+[2021-07-06 14:29:03]		Results received
+[2021-07-06 14:29:03]	Closed: Socket[addr=/216.106.142.65,port=62658,localport=10000]
+[2021-07-06 14:29:13]	Connected: Socket[addr=/216.106.142.65,port=62660,localport=10000]
+[2021-07-06 14:29:13]		Key Accepted
+[2021-07-06 14:29:13]		No commands to send
+[2021-07-06 14:29:13]	Closed: Socket[addr=/216.106.142.65,port=62660,localport=10000]
+[2021-07-06 14:29:23]	Connected: Socket[addr=/216.106.142.65,port=62661,localport=10000]
+[2021-07-06 14:29:23]		Key Accepted
+[2021-07-06 14:29:23]		No commands to send
+[2021-07-06 14:29:23]	Closed: Socket[addr=/216.106.142.65,port=62661,localport=10000]
+[2021-07-06 14:31:42]	Connected: Socket[addr=/216.106.142.65,port=60122,localport=10000]
+[2021-07-06 14:31:43]		Key Accepted
+[2021-07-06 14:31:43]		No commands to send
+[2021-07-06 14:31:43]	Closed: Socket[addr=/216.106.142.65,port=60122,localport=10000]
+[2021-07-06 14:31:53]	Connected: Socket[addr=/216.106.142.65,port=60123,localport=10000]
+[2021-07-06 14:31:53]		Key Accepted
+[2021-07-06 14:31:53]		No commands to send
+[2021-07-06 14:31:53]	Closed: Socket[addr=/216.106.142.65,port=60123,localport=10000]
+[2021-07-06 14:32:03]	Connected: Socket[addr=/216.106.142.65,port=60125,localport=10000]
+[2021-07-06 14:32:03]		Key Accepted
+[2021-07-06 14:32:03]		No commands to send
+[2021-07-06 14:32:03]	Closed: Socket[addr=/216.106.142.65,port=60125,localport=10000]
+[2021-07-06 14:32:13]	Connected: Socket[addr=/216.106.142.65,port=60126,localport=10000]
+[2021-07-06 14:32:13]		Key Accepted
+[2021-07-06 14:32:13]		No commands to send
+[2021-07-06 14:32:13]	Closed: Socket[addr=/216.106.142.65,port=60126,localport=10000]
+[2021-07-06 14:32:23]	Connected: Socket[addr=/216.106.142.65,port=60128,localport=10000]
+[2021-07-06 14:32:23]		Key Accepted
+[2021-07-06 14:32:24]		No commands to send
+[2021-07-06 14:32:24]	Closed: Socket[addr=/216.106.142.65,port=60128,localport=10000]
+[2021-07-06 14:33:44]	Connected: Socket[addr=/71.126.139.38,port=56437,localport=10000]
+[2021-07-06 14:33:44]		Key Accepted
+[2021-07-06 14:33:44]		No commands to send
+[2021-07-06 14:33:44]	Closed: Socket[addr=/71.126.139.38,port=56437,localport=10000]
+[2021-07-06 14:33:54]	Connected: Socket[addr=/71.126.139.38,port=56438,localport=10000]
+[2021-07-06 14:33:54]		Key Accepted
+[2021-07-06 14:33:54]		No commands to send
+[2021-07-06 14:33:54]	Closed: Socket[addr=/71.126.139.38,port=56438,localport=10000]
+[2021-07-06 14:34:04]	Connected: Socket[addr=/71.126.139.38,port=56439,localport=10000]
+[2021-07-06 14:34:05]		Key Accepted
+[2021-07-06 14:34:05]		No commands to send
+[2021-07-06 14:34:05]	Closed: Socket[addr=/71.126.139.38,port=56439,localport=10000]
+[2021-07-06 14:34:15]	Connected: Socket[addr=/71.126.139.38,port=56440,localport=10000]
+[2021-07-06 14:34:15]		Key Accepted
+[2021-07-06 14:34:15]		No commands to send
+[2021-07-06 14:34:15]	Closed: Socket[addr=/71.126.139.38,port=56440,localport=10000]
+[2021-07-06 14:34:25]	Connected: Socket[addr=/71.126.139.38,port=56441,localport=10000]
+[2021-07-06 14:34:25]		Key Accepted
+[2021-07-06 14:34:25]		No commands to send
+[2021-07-06 14:34:25]	Closed: Socket[addr=/71.126.139.38,port=56441,localport=10000]
+[2021-07-06 14:34:35]	Connected: Socket[addr=/71.126.139.38,port=56442,localport=10000]
+[2021-07-06 14:34:35]		Key Accepted
+[2021-07-06 14:34:35]		No commands to send
+[2021-07-06 14:34:35]	Closed: Socket[addr=/71.126.139.38,port=56442,localport=10000]
+[2021-07-06 14:34:45]	Connected: Socket[addr=/71.126.139.38,port=56443,localport=10000]
+[2021-07-06 14:34:45]		Key Accepted
+[2021-07-06 14:34:45]		No commands to send
+[2021-07-06 14:34:45]	Closed: Socket[addr=/71.126.139.38,port=56443,localport=10000]
+[2021-07-06 14:34:56]	Connected: Socket[addr=/71.126.139.38,port=56444,localport=10000]
+[2021-07-06 14:34:56]		Key Accepted
+[2021-07-06 14:34:56]		No commands to send
+[2021-07-06 14:34:56]	Closed: Socket[addr=/71.126.139.38,port=56444,localport=10000]
+[2021-07-06 14:35:06]	Connected: Socket[addr=/71.126.139.38,port=56446,localport=10000]
+[2021-07-06 14:35:06]		Key Accepted
+[2021-07-06 14:35:06]		No commands to send
+[2021-07-06 14:35:06]	Closed: Socket[addr=/71.126.139.38,port=56446,localport=10000]
+[2021-07-06 14:35:16]	Connected: Socket[addr=/71.126.139.38,port=56447,localport=10000]
+[2021-07-06 14:35:16]		Key Accepted
+[2021-07-06 14:35:16]		Commands sent
+[2021-07-06 14:35:16]		Results received
+[2021-07-06 14:35:17]		Results received
+[2021-07-06 14:35:17]	Closed: Socket[addr=/71.126.139.38,port=56447,localport=10000]
+[2021-07-06 14:35:37]	Connected: Socket[addr=/71.126.139.38,port=56463,localport=10000]
+[2021-07-06 14:35:37]		Key Accepted
+[2021-07-06 14:35:37]		No commands to send
+[2021-07-06 14:35:37]	Closed: Socket[addr=/71.126.139.38,port=56463,localport=10000]
+[2021-07-06 14:35:57]	Connected: Socket[addr=/71.126.139.38,port=56464,localport=10000]
+[2021-07-06 14:35:57]		Key Accepted
+[2021-07-06 14:35:57]		No commands to send
+[2021-07-06 14:35:57]	Closed: Socket[addr=/71.126.139.38,port=56464,localport=10000]
+[2021-07-06 14:36:17]	Connected: Socket[addr=/71.126.139.38,port=56466,localport=10000]
+[2021-07-06 14:36:17]		Key Accepted
+[2021-07-06 14:36:17]		No commands to send
+[2021-07-06 14:36:17]	Closed: Socket[addr=/71.126.139.38,port=56466,localport=10000]
+[2021-07-06 14:36:37]	Connected: Socket[addr=/71.126.139.38,port=63157,localport=10000]
+[2021-07-06 14:36:37]		Key Accepted
+[2021-07-06 14:36:37]		No commands to send
+[2021-07-06 14:36:37]	Closed: Socket[addr=/71.126.139.38,port=63157,localport=10000]
+[2021-07-06 14:36:57]	Connected: Socket[addr=/71.126.139.38,port=60095,localport=10000]
+[2021-07-06 14:36:57]		Key Accepted
+[2021-07-06 14:36:58]		No commands to send
+[2021-07-06 14:36:58]	Closed: Socket[addr=/71.126.139.38,port=60095,localport=10000]
+[2021-07-06 14:43:10]	Connected: Socket[addr=/216.106.142.65,port=63377,localport=10000]
+[2021-07-06 14:43:10]		Key Accepted
+[2021-07-06 14:43:10]		No commands to send
+[2021-07-06 14:43:10]	Closed: Socket[addr=/216.106.142.65,port=63377,localport=10000]
+[2021-07-06 14:50:19]	Connected: Socket[addr=/216.106.142.65,port=55990,localport=10000]
+[2021-07-06 14:50:19]		Key Accepted
+[2021-07-06 14:50:19]		No commands to send
+[2021-07-06 14:50:19]	Closed: Socket[addr=/216.106.142.65,port=55990,localport=10000]
+[2021-07-06 14:50:29]	Connected: Socket[addr=/216.106.142.65,port=55991,localport=10000]
+[2021-07-06 14:50:30]		Key Accepted
+[2021-07-06 14:50:30]		No commands to send
+[2021-07-06 14:50:30]	Closed: Socket[addr=/216.106.142.65,port=55991,localport=10000]
+[2021-07-06 14:50:40]	Connected: Socket[addr=/216.106.142.65,port=55993,localport=10000]
+[2021-07-06 14:50:40]		Key Accepted
+[2021-07-06 14:50:40]		No commands to send
+[2021-07-06 14:50:40]	Closed: Socket[addr=/216.106.142.65,port=55993,localport=10000]
+[2021-07-06 14:50:50]	Connected: Socket[addr=/216.106.142.65,port=55994,localport=10000]
+[2021-07-06 14:50:50]		Key Accepted
+[2021-07-06 14:50:50]		No commands to send
+[2021-07-06 14:50:50]	Closed: Socket[addr=/216.106.142.65,port=55994,localport=10000]
+[2021-07-06 14:51:25]	Connected: Socket[addr=/216.106.142.65,port=55996,localport=10000]
+[2021-07-06 14:51:25]		Key Accepted
+[2021-07-06 14:51:25]		No commands to send
+[2021-07-06 14:51:25]	Closed: Socket[addr=/216.106.142.65,port=55996,localport=10000]
+[2021-07-06 14:51:35]	Connected: Socket[addr=/216.106.142.65,port=55997,localport=10000]
+[2021-07-06 14:51:35]		Key Accepted
+[2021-07-06 14:51:35]		No commands to send
+[2021-07-06 14:51:35]	Closed: Socket[addr=/216.106.142.65,port=55997,localport=10000]
+[2021-07-06 14:51:45]	Connected: Socket[addr=/216.106.142.65,port=55999,localport=10000]
+[2021-07-06 14:51:45]		Key Accepted
+[2021-07-06 14:51:45]		No commands to send
+[2021-07-06 14:51:45]	Closed: Socket[addr=/216.106.142.65,port=55999,localport=10000]
+[2021-07-06 14:51:55]	Connected: Socket[addr=/216.106.142.65,port=49983,localport=10000]
+[2021-07-06 14:51:55]		Key Accepted
+[2021-07-06 14:51:56]		No commands to send
+[2021-07-06 14:51:56]	Closed: Socket[addr=/216.106.142.65,port=49983,localport=10000]
+[2021-07-06 14:53:24]	Connected: Socket[addr=/216.106.142.65,port=56717,localport=10000]
+[2021-07-06 14:53:24]		Key Accepted
+[2021-07-06 14:53:24]		No commands to send
+[2021-07-06 14:53:24]	Closed: Socket[addr=/216.106.142.65,port=56717,localport=10000]
+[2021-07-06 14:53:34]	Connected: Socket[addr=/216.106.142.65,port=56718,localport=10000]
+[2021-07-06 14:53:34]		Key Accepted
+[2021-07-06 14:53:34]		No commands to send
+[2021-07-06 14:53:34]	Closed: Socket[addr=/216.106.142.65,port=56718,localport=10000]
+[2021-07-06 14:54:08]	Connected: Socket[addr=/216.106.142.65,port=61043,localport=10000]
+[2021-07-06 14:54:08]		Key Accepted
+[2021-07-06 14:54:08]		No commands to send
+[2021-07-06 14:54:08]	Closed: Socket[addr=/216.106.142.65,port=61043,localport=10000]
+[2021-07-06 14:54:18]	Connected: Socket[addr=/216.106.142.65,port=51268,localport=10000]
+[2021-07-06 14:54:18]		Key Accepted
+[2021-07-06 14:54:19]		No commands to send
+[2021-07-06 14:54:19]	Closed: Socket[addr=/216.106.142.65,port=51268,localport=10000]
+[2021-07-06 14:54:31]	Connected: Socket[addr=/216.106.142.65,port=51270,localport=10000]
+[2021-07-06 14:54:31]		Key Accepted
+[2021-07-06 14:54:31]		No commands to send
+[2021-07-06 14:54:31]	Closed: Socket[addr=/216.106.142.65,port=51270,localport=10000]
+[2021-07-06 14:54:42]	Connected: Socket[addr=/216.106.142.65,port=51271,localport=10000]
+[2021-07-06 14:54:42]		Key Accepted
+[2021-07-06 14:54:42]		No commands to send
+[2021-07-06 14:54:42]	Closed: Socket[addr=/216.106.142.65,port=51271,localport=10000]
+[2021-07-06 14:59:15]	Connected: Socket[addr=/216.106.142.65,port=57201,localport=10000]
+[2021-07-06 14:59:15]		Key Accepted
+[2021-07-06 14:59:15]		No commands to send
+[2021-07-06 14:59:15]	Closed: Socket[addr=/216.106.142.65,port=57201,localport=10000]
+[2021-07-06 15:04:57]	Connected: Socket[addr=/216.106.142.65,port=50889,localport=10000]
+[2021-07-06 15:04:57]		Key Accepted
+[2021-07-06 15:04:58]		No commands to send
+[2021-07-06 15:04:58]	Closed: Socket[addr=/216.106.142.65,port=50889,localport=10000]
+[2021-07-06 15:05:58]	Connected: Socket[addr=/216.106.142.65,port=58343,localport=10000]
+[2021-07-06 15:05:58]		Key Accepted
+[2021-07-06 15:05:58]		No commands to send
+[2021-07-06 15:05:58]	Closed: Socket[addr=/216.106.142.65,port=58343,localport=10000]
+[2021-07-06 15:06:08]	Connected: Socket[addr=/216.106.142.65,port=58344,localport=10000]
+[2021-07-06 15:06:09]		Key Accepted
+[2021-07-06 15:06:09]		No commands to send
+[2021-07-06 15:06:09]	Closed: Socket[addr=/216.106.142.65,port=58344,localport=10000]
+[2021-07-06 15:06:19]	Connected: Socket[addr=/216.106.142.65,port=58346,localport=10000]
+[2021-07-06 15:06:19]		Key Accepted
+[2021-07-06 15:06:19]		No commands to send
+[2021-07-06 15:06:19]	Closed: Socket[addr=/216.106.142.65,port=58346,localport=10000]
+[2021-07-06 15:06:51]	Connected: Socket[addr=/216.106.142.65,port=58350,localport=10000]
+[2021-07-06 15:06:51]		Key Accepted
+[2021-07-06 15:06:51]		No commands to send
+[2021-07-06 15:06:51]	Closed: Socket[addr=/216.106.142.65,port=58350,localport=10000]
+[2021-07-06 15:11:51]	Connected: Socket[addr=/216.106.142.65,port=59629,localport=10000]
+[2021-07-06 15:11:52]		Key Accepted
+[2021-07-06 15:11:52]		No commands to send
+[2021-07-06 15:11:52]	Closed: Socket[addr=/216.106.142.65,port=59629,localport=10000]
+[2021-07-06 15:12:02]	Connected: Socket[addr=/216.106.142.65,port=59631,localport=10000]
+[2021-07-06 15:12:02]		Key Accepted
+[2021-07-06 15:12:02]		No commands to send
+[2021-07-06 15:12:02]	Closed: Socket[addr=/216.106.142.65,port=59631,localport=10000]
+[2021-07-06 15:12:12]	Connected: Socket[addr=/216.106.142.65,port=65235,localport=10000]
+[2021-07-06 15:12:12]		Key Accepted
+[2021-07-06 15:12:12]		No commands to send
+[2021-07-06 15:12:12]	Closed: Socket[addr=/216.106.142.65,port=65235,localport=10000]
+[2021-07-06 15:12:22]	Connected: Socket[addr=/216.106.142.65,port=65239,localport=10000]
+[2021-07-06 15:12:22]		Key Accepted
+[2021-07-06 15:12:22]		No commands to send
+[2021-07-06 15:12:22]	Closed: Socket[addr=/216.106.142.65,port=65239,localport=10000]
+[2021-07-06 15:12:32]	Connected: Socket[addr=/216.106.142.65,port=65241,localport=10000]
+[2021-07-06 15:12:32]		Key Accepted
+[2021-07-06 15:12:33]		Commands sent
+[2021-07-06 15:12:33]		Results received
+[2021-07-06 15:12:33]	Closed: Socket[addr=/216.106.142.65,port=65241,localport=10000]
+[2021-07-06 15:12:43]	Connected: Socket[addr=/216.106.142.65,port=65243,localport=10000]
+[2021-07-06 15:12:43]		Key Accepted
+[2021-07-06 15:12:43]		No commands to send
+[2021-07-06 15:12:43]	Closed: Socket[addr=/216.106.142.65,port=65243,localport=10000]
+[2021-07-06 15:12:53]	Connected: Socket[addr=/216.106.142.65,port=65244,localport=10000]
+[2021-07-06 15:12:53]		Key Accepted
+[2021-07-06 15:12:53]		No commands to send
+[2021-07-06 15:12:53]	Closed: Socket[addr=/216.106.142.65,port=65244,localport=10000]
+[2021-07-06 15:13:03]	Connected: Socket[addr=/216.106.142.65,port=65246,localport=10000]
+[2021-07-06 15:13:03]		Key Accepted
+[2021-07-06 15:13:04]		No commands to send
+[2021-07-06 15:13:04]	Closed: Socket[addr=/216.106.142.65,port=65246,localport=10000]
+[2021-07-06 15:13:14]	Connected: Socket[addr=/216.106.142.65,port=65247,localport=10000]
+[2021-07-06 15:13:14]		Key Accepted
+[2021-07-06 15:13:14]		No commands to send
+[2021-07-06 15:13:14]	Closed: Socket[addr=/216.106.142.65,port=65247,localport=10000]
+[2021-07-06 15:14:15]	Connected: Socket[addr=/216.106.142.65,port=61366,localport=10000]
+[2021-07-06 15:14:15]		Key Accepted
+[2021-07-06 15:14:15]		No commands to send
+[2021-07-06 15:14:15]	Closed: Socket[addr=/216.106.142.65,port=61366,localport=10000]
+[2021-07-06 15:14:25]	Connected: Socket[addr=/216.106.142.65,port=61368,localport=10000]
+[2021-07-06 15:14:25]		Key Accepted
+[2021-07-06 15:14:25]		No commands to send
+[2021-07-06 15:14:25]	Closed: Socket[addr=/216.106.142.65,port=61368,localport=10000]
+[2021-07-06 15:14:35]	Connected: Socket[addr=/216.106.142.65,port=61369,localport=10000]
+[2021-07-06 15:14:35]		Key Accepted
+[2021-07-06 15:14:35]		No commands to send
+[2021-07-06 15:14:35]	Closed: Socket[addr=/216.106.142.65,port=61369,localport=10000]
+[2021-07-06 15:15:25]	Connected: Socket[addr=/216.106.142.65,port=65448,localport=10000]
+[2021-07-06 15:15:25]		Key Accepted
+[2021-07-06 15:15:25]		No commands to send
+[2021-07-06 15:15:25]	Closed: Socket[addr=/216.106.142.65,port=65448,localport=10000]
+[2021-07-06 15:15:35]	Connected: Socket[addr=/216.106.142.65,port=65450,localport=10000]
+[2021-07-06 15:15:35]		Key Accepted
+[2021-07-06 15:15:36]		No commands to send
+[2021-07-06 15:15:36]	Closed: Socket[addr=/216.106.142.65,port=65450,localport=10000]
+[2021-07-06 15:15:49]	Connected: Socket[addr=/216.106.142.65,port=65452,localport=10000]
+[2021-07-06 15:15:49]		Key Accepted
+[2021-07-06 15:15:49]		No commands to send
+[2021-07-06 15:15:49]	Closed: Socket[addr=/216.106.142.65,port=65452,localport=10000]
+[2021-07-06 15:16:08]	Connected: Socket[addr=/216.106.142.65,port=61031,localport=10000]
+[2021-07-06 15:16:08]		Key Accepted
+[2021-07-06 15:16:08]		No commands to send
+[2021-07-06 15:16:08]	Closed: Socket[addr=/216.106.142.65,port=61031,localport=10000]
+[2021-07-06 15:16:18]	Connected: Socket[addr=/216.106.142.65,port=61032,localport=10000]
+[2021-07-06 15:16:18]		Key Accepted
+[2021-07-06 15:16:18]		No commands to send
+[2021-07-06 15:16:18]	Closed: Socket[addr=/216.106.142.65,port=61032,localport=10000]
+[2021-07-06 15:16:28]	Connected: Socket[addr=/216.106.142.65,port=61034,localport=10000]
+[2021-07-06 15:16:28]		Key Accepted
+[2021-07-06 15:16:28]		No commands to send
+[2021-07-06 15:16:28]	Closed: Socket[addr=/216.106.142.65,port=61034,localport=10000]
+[2021-07-06 15:17:12]	Connected: Socket[addr=/216.106.142.65,port=61037,localport=10000]
+[2021-07-06 15:17:12]		Key Accepted
+[2021-07-06 15:17:13]		No commands to send
+[2021-07-06 15:17:13]	Closed: Socket[addr=/216.106.142.65,port=61037,localport=10000]
+[2021-07-06 15:19:57]	Connected: Socket[addr=/216.106.142.65,port=64243,localport=10000]
+[2021-07-06 15:19:57]		Key Accepted
+[2021-07-06 15:19:57]		No commands to send
+[2021-07-06 15:19:57]	Closed: Socket[addr=/216.106.142.65,port=64243,localport=10000]
+[2021-07-06 15:20:07]	Connected: Socket[addr=/216.106.142.65,port=63791,localport=10000]
+[2021-07-06 15:20:07]		Key Accepted
+[2021-07-06 15:20:07]		No commands to send
+[2021-07-06 15:20:07]	Closed: Socket[addr=/216.106.142.65,port=63791,localport=10000]
+[2021-07-06 15:20:17]	Connected: Socket[addr=/216.106.142.65,port=55771,localport=10000]
+[2021-07-06 15:20:17]		Key Accepted
+[2021-07-06 15:20:17]		No commands to send
+[2021-07-06 15:20:17]	Closed: Socket[addr=/216.106.142.65,port=55771,localport=10000]
+[2021-07-06 15:20:27]	Connected: Socket[addr=/216.106.142.65,port=54745,localport=10000]
+[2021-07-06 15:20:28]		Key Accepted
+[2021-07-06 15:20:28]		No commands to send
+[2021-07-06 15:20:28]	Closed: Socket[addr=/216.106.142.65,port=54745,localport=10000]
+[2021-07-06 15:20:38]	Connected: Socket[addr=/216.106.142.65,port=49459,localport=10000]
+[2021-07-06 15:20:38]		Key Accepted
+[2021-07-06 15:20:38]		No commands to send
+[2021-07-06 15:20:38]	Closed: Socket[addr=/216.106.142.65,port=49459,localport=10000]
+[2021-07-06 15:20:48]	Connected: Socket[addr=/216.106.142.65,port=49460,localport=10000]
+[2021-07-06 15:20:48]		Key Accepted
+[2021-07-06 15:20:48]		No commands to send
+[2021-07-06 15:20:48]	Closed: Socket[addr=/216.106.142.65,port=49460,localport=10000]
+[2021-07-06 15:20:58]	Connected: Socket[addr=/216.106.142.65,port=49462,localport=10000]
+[2021-07-06 15:20:58]		Key Accepted
+[2021-07-06 15:20:58]		No commands to send
+[2021-07-06 15:20:58]	Closed: Socket[addr=/216.106.142.65,port=49462,localport=10000]
+[2021-07-06 15:21:08]	Connected: Socket[addr=/216.106.142.65,port=58463,localport=10000]
+[2021-07-06 15:21:09]		Key Accepted
+[2021-07-06 15:21:09]		No commands to send
+[2021-07-06 15:21:09]	Closed: Socket[addr=/216.106.142.65,port=58463,localport=10000]
+[2021-07-06 15:21:19]	Connected: Socket[addr=/216.106.142.65,port=58465,localport=10000]
+[2021-07-06 15:21:19]		Key Accepted
+[2021-07-06 15:21:19]		No commands to send
+[2021-07-06 15:21:19]	Closed: Socket[addr=/216.106.142.65,port=58465,localport=10000]
+[2021-07-06 15:21:29]	Connected: Socket[addr=/216.106.142.65,port=58466,localport=10000]
+[2021-07-06 15:21:29]		Key Accepted
+[2021-07-06 15:21:29]		Commands sent
+[2021-07-06 15:21:29]		Results received
+[2021-07-06 15:21:30]		Results received
+[2021-07-06 15:21:30]		Results received
+[2021-07-06 15:21:30]	Closed: Socket[addr=/216.106.142.65,port=58466,localport=10000]
+[2021-07-06 15:22:30]	Connected: Socket[addr=/216.106.142.65,port=64168,localport=10000]
+[2021-07-06 15:22:30]		Key Accepted
+[2021-07-06 15:22:31]		No commands to send
+[2021-07-06 15:22:31]	Closed: Socket[addr=/216.106.142.65,port=64168,localport=10000]
+[2021-07-06 15:23:31]	Connected: Socket[addr=/216.106.142.65,port=64172,localport=10000]
+[2021-07-06 15:23:31]		Key Accepted
+[2021-07-06 15:23:31]		No commands to send
+[2021-07-06 15:23:31]	Closed: Socket[addr=/216.106.142.65,port=64172,localport=10000]
+[2021-07-06 15:24:31]	Connected: Socket[addr=/216.106.142.65,port=58390,localport=10000]
+[2021-07-06 15:24:31]		Key Accepted
+[2021-07-06 15:24:31]		No commands to send
+[2021-07-06 15:24:31]	Closed: Socket[addr=/216.106.142.65,port=58390,localport=10000]
+[2021-07-06 18:13:30]	Connected: Socket[addr=/216.106.142.65,port=54536,localport=10000]
+[2021-07-06 18:13:30]		Key Accepted
+[2021-07-06 18:13:30]		No commands to send
+[2021-07-06 18:13:30]	Closed: Socket[addr=/216.106.142.65,port=54536,localport=10000]
+[2021-07-06 18:14:30]	Connected: Socket[addr=/216.106.142.65,port=54540,localport=10000]
+[2021-07-06 18:14:30]		Key Accepted
+[2021-07-06 18:14:30]		Commands sent
+[2021-07-06 18:14:31]		Results received
+[2021-07-06 18:14:31]	Closed: Socket[addr=/216.106.142.65,port=54540,localport=10000]
+[2021-07-06 18:15:31]	Connected: Socket[addr=/216.106.142.65,port=55968,localport=10000]
+[2021-07-06 18:15:31]		Key Accepted
+[2021-07-06 18:15:31]		No commands to send
+[2021-07-06 18:15:31]	Closed: Socket[addr=/216.106.142.65,port=55968,localport=10000]
+[2021-07-06 18:16:31]	Connected: Socket[addr=/216.106.142.65,port=55972,localport=10000]
+[2021-07-06 18:16:31]		Key Accepted
+[2021-07-06 18:16:31]		No commands to send
+[2021-07-06 18:16:31]	Closed: Socket[addr=/216.106.142.65,port=55972,localport=10000]
+[2021-07-06 18:17:31]	Connected: Socket[addr=/216.106.142.65,port=50536,localport=10000]
+[2021-07-06 18:17:31]		Key Accepted
+[2021-07-06 18:17:32]		Commands sent
+[2021-07-06 18:17:32]		Results received
+[2021-07-06 18:17:32]		Results received
+[2021-07-06 18:17:32]	Closed: Socket[addr=/216.106.142.65,port=50536,localport=10000]
+[2021-07-06 18:17:52]	Connected: Socket[addr=/216.106.142.65,port=50538,localport=10000]
+[2021-07-06 18:17:52]		Key Accepted
+[2021-07-06 18:17:52]		No commands to send
+[2021-07-06 18:17:52]	Closed: Socket[addr=/216.106.142.65,port=50538,localport=10000]
+[2021-07-06 18:18:12]	Connected: Socket[addr=/216.106.142.65,port=50540,localport=10000]
+[2021-07-06 18:18:12]		Key Accepted
+[2021-07-06 18:18:13]		No commands to send
+[2021-07-06 18:18:13]	Closed: Socket[addr=/216.106.142.65,port=50540,localport=10000]
+[2021-07-06 18:18:33]	Connected: Socket[addr=/216.106.142.65,port=50542,localport=10000]
+[2021-07-06 18:18:33]		Key Accepted
+[2021-07-06 18:18:33]		No commands to send
+[2021-07-06 18:18:33]	Closed: Socket[addr=/216.106.142.65,port=50542,localport=10000]
+[2021-07-06 18:18:54]	Connected: Socket[addr=/216.106.142.65,port=52341,localport=10000]
+[2021-07-06 18:18:54]		Key Accepted
+[2021-07-06 18:18:54]		No commands to send
+[2021-07-06 18:18:54]	Closed: Socket[addr=/216.106.142.65,port=52341,localport=10000]
+[2021-07-06 18:19:14]	Connected: Socket[addr=/216.106.142.65,port=52343,localport=10000]
+[2021-07-06 18:19:14]		Key Accepted
+[2021-07-06 18:19:14]		No commands to send
+[2021-07-06 18:19:14]	Closed: Socket[addr=/216.106.142.65,port=52343,localport=10000]
+[2021-07-06 18:19:34]	Connected: Socket[addr=/216.106.142.65,port=52345,localport=10000]
+[2021-07-06 18:19:34]		Key Accepted
+[2021-07-06 18:19:35]		No commands to send
+[2021-07-06 18:19:35]	Closed: Socket[addr=/216.106.142.65,port=52345,localport=10000]
+[2021-07-06 18:50:31]	Connected: Socket[addr=/216.106.142.65,port=57589,localport=10000]
+[2021-07-06 18:50:31]		Key Accepted
+[2021-07-06 18:50:31]		No commands to send
+[2021-07-06 18:50:31]	Closed: Socket[addr=/216.106.142.65,port=57589,localport=10000]
+[2021-07-06 18:51:31]	Connected: Socket[addr=/216.106.142.65,port=64329,localport=10000]
+[2021-07-06 18:51:31]		Key Accepted
+[2021-07-06 18:51:32]		Commands sent
+[2021-07-06 18:51:32]		Results received
+[2021-07-06 18:51:32]	Closed: Socket[addr=/216.106.142.65,port=64329,localport=10000]
+[2021-07-06 18:52:32]	Connected: Socket[addr=/216.106.142.65,port=55611,localport=10000]
+[2021-07-06 18:52:32]		Key Accepted
+[2021-07-06 18:52:32]		Commands sent
+[2021-07-06 18:52:32]		Results received
+[2021-07-06 18:52:32]	Closed: Socket[addr=/216.106.142.65,port=55611,localport=10000]
+[2021-07-06 18:53:33]	Connected: Socket[addr=/216.106.142.65,port=55459,localport=10000]
+[2021-07-06 18:53:33]		Key Accepted
+[2021-07-06 18:53:33]		No commands to send
+[2021-07-06 18:53:33]	Closed: Socket[addr=/216.106.142.65,port=55459,localport=10000]
+[2021-07-06 18:54:33]	Connected: Socket[addr=/216.106.142.65,port=55973,localport=10000]
+[2021-07-06 18:54:33]		Key Accepted
+[2021-07-06 18:54:33]		No commands to send
+[2021-07-06 18:54:33]	Closed: Socket[addr=/216.106.142.65,port=55973,localport=10000]
+[2021-07-06 18:55:33]	Connected: Socket[addr=/216.106.142.65,port=59405,localport=10000]
+[2021-07-06 18:55:33]		Key Accepted
+[2021-07-06 18:55:33]		No commands to send
+[2021-07-06 18:55:33]	Closed: Socket[addr=/216.106.142.65,port=59405,localport=10000]
+[2021-07-06 18:56:33]	Connected: Socket[addr=/216.106.142.65,port=49715,localport=10000]
+[2021-07-06 18:56:34]		Key Accepted
+[2021-07-06 18:56:34]		No commands to send
+[2021-07-06 18:56:34]	Closed: Socket[addr=/216.106.142.65,port=49715,localport=10000]
+[2021-07-06 18:57:40]	Connected: Socket[addr=/216.106.142.65,port=52257,localport=10000]
+[2021-07-06 18:57:40]		Key Accepted
+[2021-07-06 18:57:40]		No commands to send
+[2021-07-06 18:57:40]	Closed: Socket[addr=/216.106.142.65,port=52257,localport=10000]
+[2021-07-06 18:58:40]	Connected: Socket[addr=/216.106.142.65,port=62591,localport=10000]
+[2021-07-06 18:58:40]		Key Accepted
+[2021-07-06 18:58:40]		No commands to send
+[2021-07-06 18:58:40]	Closed: Socket[addr=/216.106.142.65,port=62591,localport=10000]
+[2021-07-06 18:59:40]	Connected: Socket[addr=/216.106.142.65,port=52458,localport=10000]
+[2021-07-06 18:59:40]		Key Accepted
+[2021-07-06 18:59:41]		Commands sent
+[2021-07-06 18:59:41]		Results received
+[2021-07-06 18:59:41]		Results received
+[2021-07-06 18:59:41]		Results received
+[2021-07-06 18:59:41]	Closed: Socket[addr=/216.106.142.65,port=52458,localport=10000]
+[2021-07-06 21:02:07]	Connected: Socket[addr=/216.106.142.65,port=59475,localport=10000]
+[2021-07-06 21:02:07]		Key Accepted
+[2021-07-06 21:02:07]		No commands to send
+[2021-07-06 21:02:07]	Closed: Socket[addr=/216.106.142.65,port=59475,localport=10000]
+[2021-07-06 21:03:07]	Connected: Socket[addr=/216.106.142.65,port=60917,localport=10000]
+[2021-07-06 21:03:07]		Key Accepted
+[2021-07-06 21:03:07]		No commands to send
+[2021-07-06 21:03:07]	Closed: Socket[addr=/216.106.142.65,port=60917,localport=10000]
+[2021-07-06 21:04:07]	Connected: Socket[addr=/216.106.142.65,port=50665,localport=10000]
+[2021-07-06 21:04:08]		Key Accepted
+[2021-07-06 21:04:08]		No commands to send
+[2021-07-06 21:04:08]	Closed: Socket[addr=/216.106.142.65,port=50665,localport=10000]
+[2021-07-06 21:05:08]	Connected: Socket[addr=/216.106.142.65,port=51869,localport=10000]
+[2021-07-06 21:05:08]		Key Accepted
+[2021-07-06 21:05:08]		No commands to send
+[2021-07-06 21:05:08]	Closed: Socket[addr=/216.106.142.65,port=51869,localport=10000]
+[2021-07-06 21:06:08]	Connected: Socket[addr=/216.106.142.65,port=63491,localport=10000]
+[2021-07-06 21:06:08]		Key Accepted
+[2021-07-06 21:06:08]		Commands sent
+[2021-07-06 21:06:08]		Results received
+[2021-07-06 21:06:09]	Closed: Socket[addr=/216.106.142.65,port=63491,localport=10000]
+[2021-07-06 21:07:09]	Connected: Socket[addr=/216.106.142.65,port=63495,localport=10000]
+[2021-07-06 21:07:09]		Key Accepted
+[2021-07-06 21:07:09]		No commands to send
+[2021-07-06 21:07:09]	Closed: Socket[addr=/216.106.142.65,port=63495,localport=10000]
+[2021-07-06 21:14:29] Connection Closed
+----------------------------------------
+[2021-07-07 13:27:03] Connection Opened (port 10000)
+[2021-07-07 14:40:27]	Connected: Socket[addr=/216.106.142.65,port=64993,localport=10000]
+[2021-07-07 14:40:28]		Key Accepted
+[2021-07-07 14:40:29]		No commands to send
+[2021-07-07 14:40:29]	Closed: Socket[addr=/216.106.142.65,port=64993,localport=10000]
+[2021-07-07 14:42:31] Connection Closed
+----------------------------------------
+[2021-07-07 14:44:36] Connection Opened (port 10000)
+[2021-07-07 14:44:59]	Connected: Socket[addr=/216.106.142.65,port=65506,localport=10000]
+[2021-07-07 14:46:17]	Connected: Socket[addr=/216.106.142.65,port=58574,localport=10000]
+[2021-07-07 14:46:18]		Socket sent invalid key
+[2021-07-07 14:46:18]	Closed: Socket[addr=/216.106.142.65,port=58574,localport=10000]
+[2021-07-07 14:47:01]	Connected: Socket[addr=/216.106.142.65,port=58578,localport=10000]
+[2021-07-07 14:47:01]		Socket sent invalid key
+[2021-07-07 14:47:01]	Closed: Socket[addr=/216.106.142.65,port=58578,localport=10000]
+[2021-07-07 14:55:41] Connection Closed
+----------------------------------------
+[2021-07-07 14:56:10] Connection Opened (port 10000)
+[2021-07-07 14:56:22]	Connected: Socket[addr=/216.106.142.65,port=53159,localport=10000]
+[2021-07-07 14:56:25]		Socket sent invalid key
+[2021-07-07 14:56:25]	Closed: Socket[addr=/216.106.142.65,port=53159,localport=10000]
+[2021-07-07 14:57:17]	Connected: Socket[addr=/216.106.142.65,port=64801,localport=10000]
+[2021-07-07 14:57:18]		Socket sent invalid key
+[2021-07-07 14:57:18]	Closed: Socket[addr=/216.106.142.65,port=64801,localport=10000]
+[2021-07-07 14:58:41]	Connected: Socket[addr=/216.106.142.65,port=64804,localport=10000]
+[2021-07-07 14:58:42]		Socket sent invalid key
+[2021-07-07 14:58:42]	Closed: Socket[addr=/216.106.142.65,port=64804,localport=10000]
+[2021-07-07 14:59:22]	Connected: Socket[addr=/216.106.142.65,port=64806,localport=10000]
+[2021-07-07 14:59:22]		Socket sent invalid key
+[2021-07-07 14:59:22]	Closed: Socket[addr=/216.106.142.65,port=64806,localport=10000]
+[2021-07-07 15:05:55] Connection Closed
+----------------------------------------
+[2021-07-07 15:05:58] Connection Opened (port 10000)
+[2021-07-07 15:06:08]	Connected: Socket[addr=/216.106.142.65,port=57777,localport=10000]
+[2021-07-07 15:06:12]		Socket sent invalid key
+[2021-07-07 15:06:12]	Closed: Socket[addr=/216.106.142.65,port=57777,localport=10000]
+[2021-07-07 15:06:27]	Connected: Socket[addr=/216.106.142.65,port=60378,localport=10000]
+[2021-07-07 15:06:29]		Socket sent invalid key
+[2021-07-07 15:06:29]	Closed: Socket[addr=/216.106.142.65,port=60378,localport=10000]
+[2021-07-07 15:21:55] Connection Closed
+----------------------------------------
+[2021-07-07 15:22:21] Connection Opened (port 10000)
+[2021-07-07 15:22:32]	Connected: Socket[addr=/71.126.139.38,port=53433,localport=10000]
+[2021-07-07 15:22:35]		Socket sent invalid key
+[2021-07-07 15:22:35]	Closed: Socket[addr=/71.126.139.38,port=53433,localport=10000]
+[2021-07-07 15:24:57]	Connected: Socket[addr=/71.126.139.38,port=52684,localport=10000]
+[2021-07-07 15:37:35]	Connected: Socket[addr=/71.126.139.38,port=52693,localport=10000]
+[2021-07-07 15:37:36]		Socket sent invalid key
+[2021-07-07 15:37:36]	Closed: Socket[addr=/71.126.139.38,port=52693,localport=10000]
+[2021-07-07 15:38:06] Connection Closed
+----------------------------------------
+[2021-07-07 15:38:10] Connection Opened (port 10000)
+[2021-07-07 16:15:59] Connection Closed
+----------------------------------------
+[2021-07-07 17:10:59] Connection Opened (port 10000)
+[2021-07-07 17:13:17]	Connected: Socket[addr=/71.126.139.38,port=52812,localport=10000]
+[2021-07-07 17:13:19]		Socket sent invalid key
+[2021-07-07 17:13:19]	Closed: Socket[addr=/71.126.139.38,port=52812,localport=10000]
+[2021-07-07 17:16:38] Connection Closed
+----------------------------------------
+[2021-07-07 17:17:26] Connection Opened (port 10000)
+[2021-07-07 17:17:34]	Connected: Socket[addr=/71.126.139.38,port=52816,localport=10000]
+[2021-07-07 17:17:35]		Socket sent invalid key
+[2021-07-07 17:17:35]	Closed: Socket[addr=/71.126.139.38,port=52816,localport=10000]
+[2021-07-07 17:19:42]	Connected: Socket[addr=/71.126.139.38,port=52822,localport=10000]
+[2021-07-07 17:19:43]		Socket sent invalid key
+[2021-07-07 17:19:43]	Closed: Socket[addr=/71.126.139.38,port=52822,localport=10000]
+[2021-07-07 17:36:38]	Connected: Socket[addr=/71.126.139.38,port=52892,localport=10000]
+[2021-07-07 17:36:39]		Socket sent invalid key
+[2021-07-07 17:36:39]	Closed: Socket[addr=/71.126.139.38,port=52892,localport=10000]
+[2021-07-07 17:36:59] Connection Closed
+----------------------------------------
+[2021-07-07 17:41:04] Connection Opened (port 10000)
+[2021-07-07 17:42:42] Connection Closed
+----------------------------------------
+[2021-07-07 17:43:25] Connection Opened (port 10000)
+[2021-07-07 17:43:46]	Connected: Socket[addr=/71.126.139.38,port=52925,localport=10000]
+[2021-07-07 17:43:47]		Socket sent invalid key
+[2021-07-07 17:43:47]	Closed: Socket[addr=/71.126.139.38,port=52925,localport=10000]
+[2021-07-07 17:44:37]	Connected: Socket[addr=/71.126.139.38,port=52932,localport=10000]
+[2021-07-07 17:50:38]	Connected: Socket[addr=/71.126.139.38,port=52949,localport=10000]
+[2021-07-07 17:51:08]	Connected: Socket[addr=/71.126.139.38,port=52952,localport=10000]
+[2021-07-07 17:51:08]		Socket sent invalid key
+[2021-07-07 17:51:08]	Closed: Socket[addr=/71.126.139.38,port=52952,localport=10000]
+[2021-07-07 17:54:29]	Connected: Socket[addr=/71.126.139.38,port=52962,localport=10000]
+[2021-07-07 17:54:29]		Socket sent invalid key
+[2021-07-07 17:54:29]	Closed: Socket[addr=/71.126.139.38,port=52962,localport=10000]
+[2021-07-07 17:56:25]	Connected: Socket[addr=/71.126.139.38,port=52968,localport=10000]
+[2021-07-07 17:56:26]		Socket sent invalid key
+[2021-07-07 17:56:26]	Closed: Socket[addr=/71.126.139.38,port=52968,localport=10000]
+[2021-07-07 17:58:22]	Connected: Socket[addr=/71.126.139.38,port=52971,localport=10000]
+[2021-07-07 17:58:23]		Socket sent invalid key
+[2021-07-07 17:58:23]	Closed: Socket[addr=/71.126.139.38,port=52971,localport=10000]
+[2021-07-07 17:59:10]	Connected: Socket[addr=/71.126.139.38,port=52973,localport=10000]
+[2021-07-07 17:59:10]		Socket sent invalid key
+[2021-07-07 17:59:10]	Closed: Socket[addr=/71.126.139.38,port=52973,localport=10000]
+[2021-07-07 18:00:22]	Connected: Socket[addr=/71.126.139.38,port=52975,localport=10000]
+[2021-07-07 18:00:22]		Socket sent invalid key
+[2021-07-07 18:00:22]	Closed: Socket[addr=/71.126.139.38,port=52975,localport=10000]
+[2021-07-07 18:01:14]	Connected: Socket[addr=/71.126.139.38,port=52979,localport=10000]
+[2021-07-07 18:01:14]		Socket sent invalid key
+[2021-07-07 18:01:14]	Closed: Socket[addr=/71.126.139.38,port=52979,localport=10000]
+[2021-07-07 18:05:48]	Connected: Socket[addr=/71.126.139.38,port=52990,localport=10000]
+[2021-07-07 18:05:48]		Socket sent invalid key
+[2021-07-07 18:05:48]	Closed: Socket[addr=/71.126.139.38,port=52990,localport=10000]
+[2021-07-07 18:09:58]	Connected: Socket[addr=/71.126.139.38,port=53006,localport=10000]
+[2021-07-07 18:09:58]		Socket sent invalid key
+[2021-07-07 18:09:58]	Closed: Socket[addr=/71.126.139.38,port=53006,localport=10000]
+[2021-07-07 18:10:34]	Connected: Socket[addr=/71.126.139.38,port=53009,localport=10000]
+[2021-07-07 18:10:34]		Socket sent invalid key
+[2021-07-07 18:10:34]	Closed: Socket[addr=/71.126.139.38,port=53009,localport=10000]
+[2021-07-07 18:11:01]	Connected: Socket[addr=/71.126.139.38,port=53010,localport=10000]
+[2021-07-07 18:11:01]		Socket sent invalid key
+[2021-07-07 18:11:01]	Closed: Socket[addr=/71.126.139.38,port=53010,localport=10000]
+[2021-07-07 18:23:43]	Connected: Socket[addr=/71.126.139.38,port=53341,localport=10000]
+[2021-07-07 18:23:43]		Socket sent invalid key
+[2021-07-07 18:23:43]	Closed: Socket[addr=/71.126.139.38,port=53341,localport=10000]
+[2021-07-07 18:35:36]	Connected: Socket[addr=/71.126.139.38,port=53426,localport=10000]
+[2021-07-07 18:37:16]	Connected: Socket[addr=/71.126.139.38,port=53435,localport=10000]
+[2021-07-07 18:37:39]	Connected: Socket[addr=/71.126.139.38,port=53437,localport=10000]
+[2021-07-07 18:39:14]	Connected: Socket[addr=/71.126.139.38,port=53443,localport=10000]
+[2021-07-07 18:40:37] Connection Closed
+----------------------------------------
+[2021-07-07 18:40:40] Connection Opened (port 10000)
+[2021-07-07 18:40:44]	Connected: Socket[addr=/71.126.139.38,port=53458,localport=10000]
+[2021-07-07 18:41:43]	Connected: Socket[addr=/71.126.139.38,port=53461,localport=10000]
+[2021-07-07 18:41:44]		Socket sent invalid key
+[2021-07-07 18:41:44]	Closed: Socket[addr=/71.126.139.38,port=53461,localport=10000]
+[2021-07-07 18:45:04]	Connected: Socket[addr=/71.126.139.38,port=53473,localport=10000]
+[2021-07-07 18:45:04]		Socket sent invalid key
+[2021-07-07 18:45:04]	Closed: Socket[addr=/71.126.139.38,port=53473,localport=10000]
+[2021-07-07 18:45:55]	Connected: Socket[addr=/71.126.139.38,port=53474,localport=10000]
+[2021-07-07 18:45:55]		Socket sent invalid key
+[2021-07-07 18:45:55]	Closed: Socket[addr=/71.126.139.38,port=53474,localport=10000]
+[2021-07-07 18:50:01]	Connected: Socket[addr=/71.126.139.38,port=53485,localport=10000]
+[2021-07-07 18:50:02]		Socket sent invalid key
+[2021-07-07 18:50:02]	Closed: Socket[addr=/71.126.139.38,port=53485,localport=10000]
+[2021-07-07 18:57:12]	Connected: Socket[addr=/71.126.139.38,port=53489,localport=10000]
+[2021-07-07 18:57:13]		Socket sent invalid key
+[2021-07-07 18:57:13]	Closed: Socket[addr=/71.126.139.38,port=53489,localport=10000]
+[2021-07-07 18:57:43]	Connected: Socket[addr=/71.126.139.38,port=53490,localport=10000]
+[2021-07-07 18:57:43]		Socket sent invalid key
+[2021-07-07 18:57:43]	Closed: Socket[addr=/71.126.139.38,port=53490,localport=10000]
+[2021-07-07 19:00:51]	Connected: Socket[addr=/71.126.139.38,port=53492,localport=10000]
+[2021-07-07 19:00:51]		Socket sent invalid key
+[2021-07-07 19:00:51]	Closed: Socket[addr=/71.126.139.38,port=53492,localport=10000]
+[2021-07-07 19:01:01]	Connected: Socket[addr=/71.126.139.38,port=53493,localport=10000]
+[2021-07-07 19:01:01]		Socket sent invalid key
+[2021-07-07 19:01:01]	Closed: Socket[addr=/71.126.139.38,port=53493,localport=10000]
+[2021-07-07 19:01:11]	Connected: Socket[addr=/71.126.139.38,port=53494,localport=10000]
+[2021-07-07 19:01:12]		Socket sent invalid key
+[2021-07-07 19:01:12]	Closed: Socket[addr=/71.126.139.38,port=53494,localport=10000]
+[2021-07-07 19:01:22]	Connected: Socket[addr=/71.126.139.38,port=53500,localport=10000]
+[2021-07-07 19:01:22]		Socket sent invalid key
+[2021-07-07 19:01:22]	Closed: Socket[addr=/71.126.139.38,port=53500,localport=10000]
+[2021-07-07 19:01:32]	Connected: Socket[addr=/71.126.139.38,port=53501,localport=10000]
+[2021-07-07 19:01:32]		Socket sent invalid key
+[2021-07-07 19:01:32]	Closed: Socket[addr=/71.126.139.38,port=53501,localport=10000]
+[2021-07-07 19:01:42]	Connected: Socket[addr=/71.126.139.38,port=53502,localport=10000]
+[2021-07-07 19:01:42]		Socket sent invalid key
+[2021-07-07 19:01:42]	Closed: Socket[addr=/71.126.139.38,port=53502,localport=10000]
+[2021-07-07 19:01:52]	Connected: Socket[addr=/71.126.139.38,port=53503,localport=10000]
+[2021-07-07 19:01:53]		Socket sent invalid key
+[2021-07-07 19:01:53]	Closed: Socket[addr=/71.126.139.38,port=53503,localport=10000]
+[2021-07-07 19:02:03]	Connected: Socket[addr=/71.126.139.38,port=53504,localport=10000]
+[2021-07-07 19:02:03]		Socket sent invalid key
+[2021-07-07 19:02:03]	Closed: Socket[addr=/71.126.139.38,port=53504,localport=10000]
+[2021-07-07 19:02:13]	Connected: Socket[addr=/71.126.139.38,port=53505,localport=10000]
+[2021-07-07 19:02:13]		Socket sent invalid key
+[2021-07-07 19:02:13]	Closed: Socket[addr=/71.126.139.38,port=53505,localport=10000]
+[2021-07-07 19:02:23]	Connected: Socket[addr=/71.126.139.38,port=53506,localport=10000]
+[2021-07-07 19:02:23]		Socket sent invalid key
+[2021-07-07 19:02:23]	Closed: Socket[addr=/71.126.139.38,port=53506,localport=10000]
+[2021-07-07 19:02:33]	Connected: Socket[addr=/71.126.139.38,port=53507,localport=10000]
+[2021-07-07 19:02:34]		Socket sent invalid key
+[2021-07-07 19:02:34]	Closed: Socket[addr=/71.126.139.38,port=53507,localport=10000]
+[2021-07-07 19:03:52]	Connected: Socket[addr=/71.126.139.38,port=53508,localport=10000]
+[2021-07-07 19:03:52]		Socket sent invalid key
+[2021-07-07 19:03:52]	Closed: Socket[addr=/71.126.139.38,port=53508,localport=10000]
+[2021-07-07 19:04:02]	Connected: Socket[addr=/71.126.139.38,port=53509,localport=10000]
+[2021-07-07 19:04:02]		Socket sent invalid key
+[2021-07-07 19:04:02]	Closed: Socket[addr=/71.126.139.38,port=53509,localport=10000]
+[2021-07-07 21:00:29] Connection Closed
+----------------------------------------
+[2021-07-08 13:25:43] Connection Opened (port 10000)
+[2021-07-08 14:05:28] Connection Closed
+----------------------------------------
+[2021-07-08 14:09:52] Connection Opened (port 10000)
+[2021-07-08 14:10:00]	Connected: Socket[addr=/71.126.139.38,port=53794,localport=10000]
+[2021-07-08 14:10:02]		Socket sent invalid key
+[2021-07-08 14:10:02]	Closed: Socket[addr=/71.126.139.38,port=53794,localport=10000]
+[2021-07-08 14:10:12]	Connected: Socket[addr=/71.126.139.38,port=53795,localport=10000]
+[2021-07-08 14:10:12]		Socket sent invalid key
+[2021-07-08 14:10:12]	Closed: Socket[addr=/71.126.139.38,port=53795,localport=10000]
+[2021-07-08 14:10:45]	Connected: Socket[addr=/71.126.139.38,port=53797,localport=10000]
+[2021-07-08 14:10:45]		Socket sent invalid key
+[2021-07-08 14:10:45]	Closed: Socket[addr=/71.126.139.38,port=53797,localport=10000]
+[2021-07-08 14:10:55]	Connected: Socket[addr=/71.126.139.38,port=53798,localport=10000]
+[2021-07-08 14:10:55]		Socket sent invalid key
+[2021-07-08 14:10:55]	Closed: Socket[addr=/71.126.139.38,port=53798,localport=10000]
+[2021-07-08 14:12:42]	Connected: Socket[addr=/71.126.139.38,port=53801,localport=10000]
+[2021-07-08 14:12:43]		Socket sent invalid key
+[2021-07-08 14:12:43]	Closed: Socket[addr=/71.126.139.38,port=53801,localport=10000]
+[2021-07-08 14:12:53]	Connected: Socket[addr=/71.126.139.38,port=53802,localport=10000]
+[2021-07-08 14:12:53]		Socket sent invalid key
+[2021-07-08 14:12:53]	Closed: Socket[addr=/71.126.139.38,port=53802,localport=10000]
+[2021-07-08 14:13:47]	Connected: Socket[addr=/71.126.139.38,port=53804,localport=10000]
+[2021-07-08 14:13:48]		Socket sent invalid key
+[2021-07-08 14:13:48]	Closed: Socket[addr=/71.126.139.38,port=53804,localport=10000]
+[2021-07-08 14:13:58]	Connected: Socket[addr=/71.126.139.38,port=53805,localport=10000]
+[2021-07-08 14:13:58]		Socket sent invalid key
+[2021-07-08 14:13:58]	Closed: Socket[addr=/71.126.139.38,port=53805,localport=10000]
+[2021-07-08 14:31:21] Connection Closed
+----------------------------------------
+[2021-07-08 14:33:19] Connection Opened (port 10000)
+[2021-07-08 14:33:35]	Connected: Socket[addr=/71.126.139.38,port=53818,localport=10000]
+[2021-07-08 14:33:37]		Socket sent invalid key
+[2021-07-08 14:33:37]	Closed: Socket[addr=/71.126.139.38,port=53818,localport=10000]
+[2021-07-08 14:33:47]	Connected: Socket[addr=/71.126.139.38,port=53820,localport=10000]
+[2021-07-08 14:33:47]		Socket sent invalid key
+[2021-07-08 14:33:47]	Closed: Socket[addr=/71.126.139.38,port=53820,localport=10000]
+[2021-07-08 14:36:48] Connection Closed
+----------------------------------------
+[2021-07-08 14:38:51] Connection Opened (port 10000)
+[2021-07-08 14:38:59]	Connected: Socket[addr=/71.126.139.38,port=53830,localport=10000]
+[2021-07-08 14:39:01]		Socket sent invalid key
+[2021-07-08 14:39:01]	Closed: Socket[addr=/71.126.139.38,port=53830,localport=10000]
+[2021-07-08 14:41:09] Connection Closed
+----------------------------------------
+[2021-07-08 14:41:28] Connection Opened (port 10000)
+[2021-07-08 14:41:38]	Connected: Socket[addr=/71.126.139.38,port=53831,localport=10000]
+[2021-07-08 14:41:40]		Socket sent invalid key
+[2021-07-08 14:41:40]	Closed: Socket[addr=/71.126.139.38,port=53831,localport=10000]
+[2021-07-08 14:46:35] Connection Closed
+----------------------------------------
+[2021-07-08 14:47:02] Connection Opened (port 10000)
+[2021-07-08 14:47:06]	Connected: Socket[addr=/71.126.139.38,port=53841,localport=10000]
+[2021-07-08 14:47:08]		Socket sent invalid key
+[2021-07-08 14:47:08]	Closed: Socket[addr=/71.126.139.38,port=53841,localport=10000]
+[2021-07-08 14:49:57] Connection Closed
+----------------------------------------
+[2021-07-08 14:50:15] Connection Opened (port 10000)
+[2021-07-08 14:50:20]	Connected: Socket[addr=/71.126.139.38,port=53846,localport=10000]
+[2021-07-08 14:51:47] Connection Closed
+----------------------------------------
+[2021-07-08 14:52:08] Connection Opened (port 10000)
+[2021-07-08 14:52:11]	Connected: Socket[addr=/71.126.139.38,port=53847,localport=10000]
+[2021-07-08 14:52:14]		Socket sent invalid key
+[2021-07-08 14:52:14]	Closed: Socket[addr=/71.126.139.38,port=53847,localport=10000]
+[2021-07-08 14:53:55] Connection Closed
+----------------------------------------
+[2021-07-08 14:54:09] Connection Opened (port 10000)
+[2021-07-08 14:54:11]	Connected: Socket[addr=/71.126.139.38,port=53850,localport=10000]
+[2021-07-08 14:54:14]		Socket sent invalid key
+[2021-07-08 14:54:14]	Closed: Socket[addr=/71.126.139.38,port=53850,localport=10000]
+[2021-07-08 15:07:37] Connection Closed
+----------------------------------------
+[2021-07-08 15:07:56] Connection Opened (port 10000)
+[2021-07-08 15:08:00]	Connected: Socket[addr=/71.126.139.38,port=52684,localport=10000]
+[2021-07-08 15:11:57]	Connected: Socket[addr=/71.126.139.38,port=56644,localport=10000]
+[2021-07-08 15:14:55] Connection Closed
+----------------------------------------
+[2021-07-08 15:15:12] Connection Opened (port 10000)
+[2021-07-08 15:15:16]	Connected: Socket[addr=/71.126.139.38,port=50656,localport=10000]
+[2021-07-08 15:15:19]		Key Accepted
+[2021-07-08 15:15:19]		Commands sent
+[2021-07-08 15:15:19]		Error receiving results
+[2021-07-08 15:15:20]	Closed: Socket[addr=/71.126.139.38,port=50656,localport=10000]
+[2021-07-08 15:18:19] Connection Closed
+----------------------------------------
+[2021-07-08 15:19:15] Connection Opened (port 10000)
+[2021-07-08 15:19:24]	Connected: Socket[addr=/71.126.139.38,port=62906,localport=10000]
+[2021-07-08 15:19:26]		Key Accepted
+[2021-07-08 15:19:26]		No commands to send
+[2021-07-08 15:19:26]	Closed: Socket[addr=/71.126.139.38,port=62906,localport=10000]
+[2021-07-08 15:19:36]	Connected: Socket[addr=/71.126.139.38,port=62907,localport=10000]
+[2021-07-08 15:19:36]		Key Accepted
+[2021-07-08 15:19:36]		No commands to send
+[2021-07-08 15:19:36]	Closed: Socket[addr=/71.126.139.38,port=62907,localport=10000]
+[2021-07-08 15:20:13]	Connected: Socket[addr=/71.126.139.38,port=62908,localport=10000]
+[2021-07-08 15:20:14]		Key Accepted
+[2021-07-08 15:20:14]		No commands to send
+[2021-07-08 15:20:14]	Closed: Socket[addr=/71.126.139.38,port=62908,localport=10000]
+[2021-07-08 15:20:24]	Connected: Socket[addr=/71.126.139.38,port=62909,localport=10000]
+[2021-07-08 15:20:24]		Key Accepted
+[2021-07-08 15:20:24]		No commands to send
+[2021-07-08 15:20:24]	Closed: Socket[addr=/71.126.139.38,port=62909,localport=10000]
+[2021-07-08 15:24:57] Connection Closed
+----------------------------------------
+[2021-07-08 18:15:06] Connection Opened (port 10000)
+[2021-07-08 18:16:20]	Connected: Socket[addr=/216.106.142.65,port=54947,localport=10000]
+[2021-07-08 18:20:01] Connection Closed
+----------------------------------------
+[2021-07-08 18:20:05] Connection Opened (port 10000)
+[2021-07-08 18:20:20]	Connected: Socket[addr=/216.106.142.65,port=52575,localport=10000]
+[2021-07-08 18:20:22]		Key Accepted
+[2021-07-08 18:21:27] Connection Closed
+----------------------------------------
+[2021-07-08 18:21:31] Connection Opened (port 10000)
+[2021-07-08 18:21:34]	Connected: Socket[addr=/216.106.142.65,port=52586,localport=10000]
+[2021-07-08 18:21:37]		Key Accepted
+[2021-07-08 18:23:27]	Connected: Socket[addr=/216.106.142.65,port=60112,localport=10000]
+[2021-07-08 18:23:28]		Key Accepted
+[2021-07-08 18:24:34] Connection Closed
+----------------------------------------
+[2021-07-08 18:24:38] Connection Opened (port 10000)
+[2021-07-08 18:24:46]	Connected: Socket[addr=/216.106.142.65,port=61242,localport=10000]
+[2021-07-08 18:24:49]		Key Accepted
+[2021-07-08 18:24:50]		No commands to send
+[2021-07-08 18:24:50]	Closed: Socket[addr=/216.106.142.65,port=61242,localport=10000]
+[2021-07-08 18:25:50]	Connected: Socket[addr=/216.106.142.65,port=61257,localport=10000]
+[2021-07-08 18:25:50]		Key Accepted
+[2021-07-08 18:25:51]		No commands to send
+[2021-07-08 18:25:51]	Closed: Socket[addr=/216.106.142.65,port=61257,localport=10000]
+[2021-07-08 18:26:51]	Connected: Socket[addr=/216.106.142.65,port=61264,localport=10000]
+[2021-07-08 18:26:51]		Key Accepted
+[2021-07-08 18:26:51]		No commands to send
+[2021-07-08 18:26:51]	Closed: Socket[addr=/216.106.142.65,port=61264,localport=10000]
+[2021-07-08 18:27:11] Connection Closed
+----------------------------------------
+[2021-07-08 18:28:02] Connection Opened (port 10000)
+[2021-07-08 18:32:49] Connection Closed
+----------------------------------------
+[2021-07-08 18:33:06] Connection Opened (port 10000)
+[2021-07-08 18:36:26] Connection Closed
+----------------------------------------
+[2021-07-08 18:36:41] Connection Opened (port 10000)
+[2021-07-08 18:39:42] Connection Closed
+----------------------------------------
+[2021-07-08 18:39:58] Connection Opened (port 10000)
+[2021-07-08 18:41:04] Connection Closed
+----------------------------------------
+[2021-07-08 18:41:22] Connection Opened (port 10000)
+[2021-07-08 18:43:16]	Connected: Socket[addr=/216.106.142.65,port=51012,localport=10000]
+[2021-07-08 18:43:16]		Key Accepted
+[2021-07-08 18:43:16]		Commands sent
+[2021-07-08 18:43:16]		Results received
+[2021-07-08 18:43:17]		Results received
+[2021-07-08 18:43:19]		Results received
+[2021-07-08 18:43:19]	Closed: Socket[addr=/216.106.142.65,port=51012,localport=10000]
+[2021-07-08 18:44:20]	Connected: Socket[addr=/216.106.142.65,port=63106,localport=10000]
+[2021-07-08 18:44:20]		Key Accepted
+[2021-07-08 18:44:20]		No commands to send
+[2021-07-08 18:44:20]	Closed: Socket[addr=/216.106.142.65,port=63106,localport=10000]
+[2021-07-08 18:45:20]	Connected: Socket[addr=/216.106.142.65,port=56477,localport=10000]
+[2021-07-08 18:45:20]		Key Accepted
+[2021-07-08 18:45:20]		No commands to send
+[2021-07-08 18:45:20]	Closed: Socket[addr=/216.106.142.65,port=56477,localport=10000]
+[2021-07-08 18:46:24]	Connected: Socket[addr=/216.106.142.65,port=62007,localport=10000]
+[2021-07-08 18:46:24]		Key Accepted
+[2021-07-08 18:46:24]		No commands to send
+[2021-07-08 18:46:24]	Closed: Socket[addr=/216.106.142.65,port=62007,localport=10000]
+[2021-07-08 18:47:24]	Connected: Socket[addr=/216.106.142.65,port=60600,localport=10000]
+[2021-07-08 18:47:25]		Key Accepted
+[2021-07-08 18:47:25]		Commands sent
+[2021-07-08 18:47:25]		Results received
+[2021-07-08 18:47:25]	Closed: Socket[addr=/216.106.142.65,port=60600,localport=10000]
+[2021-07-08 18:54:37] Connection Closed
+----------------------------------------
